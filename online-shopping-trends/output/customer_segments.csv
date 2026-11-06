@@ -1,0 +1,2501 @@
+CustomerID,Recency,Frequency,Monetary,Cluster,Segment
+12000,10,6,533.19,2,Potential loyalists
+12001,47,4,325.09,2,Potential loyalists
+12002,31,5,233.18,2,Potential loyalists
+12003,52,3,250.48,2,Potential loyalists
+12004,297,2,47.11,0,Lapsed / At risk
+12005,298,2,109.79,0,Lapsed / At risk
+12006,25,6,758.43,2,Potential loyalists
+12007,183,2,128.67,0,Lapsed / At risk
+12008,201,1,132.92,0,Lapsed / At risk
+12009,81,4,572.91,2,Potential loyalists
+12010,35,3,143.04,2,Potential loyalists
+12011,30,3,92.09,2,Potential loyalists
+12012,246,1,155.5,0,Lapsed / At risk
+12013,204,1,12.14,0,Lapsed / At risk
+12014,205,2,251.36,0,Lapsed / At risk
+12015,23,5,336.6,2,Potential loyalists
+12016,258,2,190.24,0,Lapsed / At risk
+12017,20,2,98.52,2,Potential loyalists
+12018,305,2,108.81,0,Lapsed / At risk
+12019,66,2,124.56,0,Lapsed / At risk
+12020,310,1,79.8,0,Lapsed / At risk
+12021,347,1,67.52,0,Lapsed / At risk
+12022,4,19,3474.04,1,Champions / Loyal
+12023,226,2,209.57,0,Lapsed / At risk
+12024,50,22,4988.94,1,Champions / Loyal
+12025,172,2,163.45,0,Lapsed / At risk
+12026,4,15,2882.9,1,Champions / Loyal
+12027,310,1,25.74,0,Lapsed / At risk
+12028,24,16,3246.32,1,Champions / Loyal
+12029,176,2,236.37,0,Lapsed / At risk
+12030,360,1,97.6,0,Lapsed / At risk
+12031,42,3,231.38,2,Potential loyalists
+12032,190,1,4.72,0,Lapsed / At risk
+12033,168,2,90.33,0,Lapsed / At risk
+12034,266,1,23.82,0,Lapsed / At risk
+12035,54,5,256.09,2,Potential loyalists
+12036,86,3,258.08,2,Potential loyalists
+12037,28,19,3741.67,1,Champions / Loyal
+12038,208,1,109.26,0,Lapsed / At risk
+12039,89,3,214.95,2,Potential loyalists
+12040,80,6,436.75,2,Potential loyalists
+12041,9,7,582.0,2,Potential loyalists
+12042,59,6,573.28,2,Potential loyalists
+12043,34,6,654.53,2,Potential loyalists
+12044,291,1,120.1,0,Lapsed / At risk
+12045,305,2,124.12,0,Lapsed / At risk
+12046,155,2,186.4,0,Lapsed / At risk
+12047,10,2,125.88,2,Potential loyalists
+12048,186,2,227.08,0,Lapsed / At risk
+12049,2,16,3923.93,1,Champions / Loyal
+12050,53,22,4687.95,1,Champions / Loyal
+12051,13,28,6808.67,1,Champions / Loyal
+12052,235,2,252.08,0,Lapsed / At risk
+12053,45,4,500.24,2,Potential loyalists
+12054,333,1,38.34,0,Lapsed / At risk
+12055,265,1,59.22,0,Lapsed / At risk
+12056,131,4,341.23,2,Potential loyalists
+12057,180,2,242.1,0,Lapsed / At risk
+12058,278,1,152.62,0,Lapsed / At risk
+12059,41,5,428.82,2,Potential loyalists
+12060,48,4,330.94,2,Potential loyalists
+12061,209,2,112.31,0,Lapsed / At risk
+12062,111,2,85.57,0,Lapsed / At risk
+12063,76,10,2673.89,1,Champions / Loyal
+12064,212,1,45.41,0,Lapsed / At risk
+12065,35,3,345.66,2,Potential loyalists
+12066,64,2,58.32,0,Lapsed / At risk
+12067,306,2,263.59,0,Lapsed / At risk
+12068,72,4,228.79,2,Potential loyalists
+12069,268,1,14.41,0,Lapsed / At risk
+12070,175,2,249.62,0,Lapsed / At risk
+12071,96,2,82.18,0,Lapsed / At risk
+12072,25,7,321.28,2,Potential loyalists
+12073,295,1,257.92,0,Lapsed / At risk
+12074,270,1,101.87,0,Lapsed / At risk
+12075,277,1,95.89,0,Lapsed / At risk
+12076,12,27,7674.67,1,Champions / Loyal
+12077,267,1,11.92,0,Lapsed / At risk
+12078,190,2,388.91,0,Lapsed / At risk
+12079,2,29,6290.41,1,Champions / Loyal
+12080,39,5,956.93,2,Potential loyalists
+12081,234,2,181.75,0,Lapsed / At risk
+12082,43,16,2264.8,1,Champions / Loyal
+12083,11,6,260.79,2,Potential loyalists
+12084,185,2,88.05,0,Lapsed / At risk
+12085,53,5,536.38,2,Potential loyalists
+12086,48,3,117.39,2,Potential loyalists
+12087,35,3,308.39,2,Potential loyalists
+12088,57,2,123.31,0,Lapsed / At risk
+12089,189,2,202.88,0,Lapsed / At risk
+12090,211,2,110.06,0,Lapsed / At risk
+12091,10,12,2571.88,1,Champions / Loyal
+12092,225,2,204.44,0,Lapsed / At risk
+12093,213,1,66.21,0,Lapsed / At risk
+12094,117,4,330.94,2,Potential loyalists
+12095,352,1,96.19,0,Lapsed / At risk
+12096,12,13,2322.36,1,Champions / Loyal
+12097,249,1,14.41,0,Lapsed / At risk
+12098,244,2,111.24,0,Lapsed / At risk
+12099,216,2,268.34,0,Lapsed / At risk
+12100,36,15,2457.23,1,Champions / Loyal
+12101,186,1,15.33,0,Lapsed / At risk
+12102,12,21,4302.17,1,Champions / Loyal
+12103,32,5,604.99,2,Potential loyalists
+12104,14,13,2845.96,1,Champions / Loyal
+12105,340,1,106.62,0,Lapsed / At risk
+12106,34,5,468.66,2,Potential loyalists
+12107,237,2,290.64,0,Lapsed / At risk
+12108,169,2,149.21,0,Lapsed / At risk
+12109,5,14,3456.23,1,Champions / Loyal
+12110,12,10,2164.21,1,Champions / Loyal
+12111,34,22,5971.75,1,Champions / Loyal
+12112,307,2,185.54,0,Lapsed / At risk
+12113,226,2,83.64,0,Lapsed / At risk
+12114,119,2,278.31,0,Lapsed / At risk
+12115,189,1,26.27,0,Lapsed / At risk
+12116,28,29,6094.06,1,Champions / Loyal
+12117,354,1,123.27,0,Lapsed / At risk
+12118,193,2,108.16,0,Lapsed / At risk
+12119,181,2,44.72,0,Lapsed / At risk
+12120,293,1,112.04,0,Lapsed / At risk
+12121,222,1,79.59,0,Lapsed / At risk
+12122,19,10,2565.24,1,Champions / Loyal
+12123,55,7,305.5,2,Potential loyalists
+12124,10,21,5365.8,1,Champions / Loyal
+12125,60,3,235.96,2,Potential loyalists
+12126,317,1,136.41,0,Lapsed / At risk
+12127,251,2,342.39,0,Lapsed / At risk
+12128,286,1,151.0,0,Lapsed / At risk
+12129,56,2,96.69,0,Lapsed / At risk
+12130,224,1,218.47,0,Lapsed / At risk
+12131,242,3,179.36,0,Lapsed / At risk
+12132,51,5,231.72,2,Potential loyalists
+12133,171,1,198.11,0,Lapsed / At risk
+12134,296,2,206.39,0,Lapsed / At risk
+12135,225,1,349.63,0,Lapsed / At risk
+12136,10,27,5706.75,1,Champions / Loyal
+12137,199,1,42.27,0,Lapsed / At risk
+12138,32,15,3429.17,1,Champions / Loyal
+12139,267,2,153.89,0,Lapsed / At risk
+12140,275,2,208.92,0,Lapsed / At risk
+12141,60,6,439.3,2,Potential loyalists
+12142,18,10,2647.71,1,Champions / Loyal
+12143,37,7,793.53,2,Potential loyalists
+12144,172,2,118.06,0,Lapsed / At risk
+12145,37,7,621.84,2,Potential loyalists
+12146,191,2,41.51,0,Lapsed / At risk
+12147,191,2,79.43,0,Lapsed / At risk
+12148,102,3,240.57,2,Potential loyalists
+12149,6,24,5512.08,1,Champions / Loyal
+12150,290,1,4.38,0,Lapsed / At risk
+12151,35,7,602.79,2,Potential loyalists
+12152,14,4,352.34,2,Potential loyalists
+12153,254,2,197.33,0,Lapsed / At risk
+12154,205,1,9.48,0,Lapsed / At risk
+12155,209,2,252.73,0,Lapsed / At risk
+12156,20,25,5966.65,1,Champions / Loyal
+12157,58,3,48.37,0,Lapsed / At risk
+12158,6,5,454.1,2,Potential loyalists
+12159,51,4,263.69,2,Potential loyalists
+12160,5,25,6189.96,1,Champions / Loyal
+12161,33,11,2733.93,1,Champions / Loyal
+12162,15,6,579.25,2,Potential loyalists
+12163,45,2,135.39,2,Potential loyalists
+12164,90,3,183.9,0,Lapsed / At risk
+12165,180,2,347.17,0,Lapsed / At risk
+12166,240,1,18.62,0,Lapsed / At risk
+12167,31,3,196.77,2,Potential loyalists
+12168,238,2,211.66,0,Lapsed / At risk
+12169,39,3,264.39,2,Potential loyalists
+12170,48,5,619.93,2,Potential loyalists
+12171,34,2,106.68,2,Potential loyalists
+12172,33,17,4160.56,1,Champions / Loyal
+12173,90,5,198.59,2,Potential loyalists
+12174,10,2,194.46,2,Potential loyalists
+12175,18,5,527.82,2,Potential loyalists
+12176,62,5,503.05,2,Potential loyalists
+12177,30,6,507.71,2,Potential loyalists
+12178,265,2,139.76,0,Lapsed / At risk
+12179,286,1,53.09,0,Lapsed / At risk
+12180,205,2,165.79,0,Lapsed / At risk
+12181,170,2,274.74,0,Lapsed / At risk
+12182,286,2,76.08,0,Lapsed / At risk
+12183,20,6,665.21,2,Potential loyalists
+12184,46,5,319.18,2,Potential loyalists
+12185,277,1,50.86,0,Lapsed / At risk
+12186,73,5,458.48,2,Potential loyalists
+12187,8,6,418.98,2,Potential loyalists
+12188,306,2,209.8,0,Lapsed / At risk
+12189,169,2,281.24,0,Lapsed / At risk
+12190,312,1,257.2,0,Lapsed / At risk
+12191,196,3,266.01,0,Lapsed / At risk
+12192,39,7,338.86,2,Potential loyalists
+12193,177,2,284.47,0,Lapsed / At risk
+12194,219,3,342.22,0,Lapsed / At risk
+12195,212,1,45.29,0,Lapsed / At risk
+12196,37,6,711.12,2,Potential loyalists
+12197,13,22,5622.98,1,Champions / Loyal
+12198,8,18,4037.63,1,Champions / Loyal
+12199,300,1,5.78,0,Lapsed / At risk
+12200,4,25,5317.82,1,Champions / Loyal
+12201,44,5,405.03,2,Potential loyalists
+12202,62,4,488.33,2,Potential loyalists
+12203,41,6,618.35,2,Potential loyalists
+12204,81,7,686.81,2,Potential loyalists
+12205,327,1,78.54,0,Lapsed / At risk
+12206,2,21,5234.63,1,Champions / Loyal
+12207,189,2,180.92,0,Lapsed / At risk
+12208,190,2,140.55,0,Lapsed / At risk
+12209,23,7,674.11,2,Potential loyalists
+12210,234,2,303.49,0,Lapsed / At risk
+12211,295,1,136.25,0,Lapsed / At risk
+12212,3,29,5755.45,1,Champions / Loyal
+12213,39,4,229.88,2,Potential loyalists
+12214,175,2,162.28,0,Lapsed / At risk
+12215,235,1,93.38,0,Lapsed / At risk
+12216,214,2,33.66,0,Lapsed / At risk
+12217,50,4,242.3,2,Potential loyalists
+12218,177,2,157.55,0,Lapsed / At risk
+12219,212,1,2.4,0,Lapsed / At risk
+12220,36,6,307.72,2,Potential loyalists
+12221,336,1,84.5,0,Lapsed / At risk
+12222,4,16,4563.1,1,Champions / Loyal
+12223,48,6,515.11,2,Potential loyalists
+12224,34,7,322.58,2,Potential loyalists
+12225,73,7,468.36,2,Potential loyalists
+12226,82,5,700.77,2,Potential loyalists
+12227,260,2,190.83,0,Lapsed / At risk
+12228,213,1,11.3,0,Lapsed / At risk
+12229,67,2,132.07,0,Lapsed / At risk
+12230,337,2,127.62,0,Lapsed / At risk
+12231,204,2,148.4,0,Lapsed / At risk
+12232,18,20,4423.65,1,Champions / Loyal
+12233,56,6,580.78,2,Potential loyalists
+12234,41,6,477.32,2,Potential loyalists
+12235,50,20,5122.86,1,Champions / Loyal
+12236,247,1,239.23,0,Lapsed / At risk
+12237,54,5,393.81,2,Potential loyalists
+12238,44,5,297.26,2,Potential loyalists
+12239,6,4,555.4,2,Potential loyalists
+12240,31,2,295.09,2,Potential loyalists
+12241,326,1,196.86,0,Lapsed / At risk
+12242,11,14,3828.23,1,Champions / Loyal
+12243,36,2,107.83,2,Potential loyalists
+12244,88,3,175.77,0,Lapsed / At risk
+12245,160,6,223.73,2,Potential loyalists
+12246,89,5,547.72,2,Potential loyalists
+12247,31,3,445.82,2,Potential loyalists
+12248,62,11,2904.54,1,Champions / Loyal
+12249,82,2,45.77,0,Lapsed / At risk
+12250,213,2,212.51,0,Lapsed / At risk
+12251,305,2,105.52,0,Lapsed / At risk
+12252,221,2,110.92,0,Lapsed / At risk
+12253,299,1,66.32,0,Lapsed / At risk
+12254,211,1,316.48,0,Lapsed / At risk
+12255,2,29,5714.37,1,Champions / Loyal
+12256,40,4,256.63,2,Potential loyalists
+12257,14,7,777.34,2,Potential loyalists
+12258,29,7,863.43,2,Potential loyalists
+12259,236,2,164.78,0,Lapsed / At risk
+12260,73,4,241.51,2,Potential loyalists
+12261,197,2,311.52,0,Lapsed / At risk
+12262,257,1,115.82,0,Lapsed / At risk
+12263,31,3,416.05,2,Potential loyalists
+12264,256,1,162.69,0,Lapsed / At risk
+12265,31,3,157.62,2,Potential loyalists
+12266,348,2,111.07,0,Lapsed / At risk
+12267,47,4,330.55,2,Potential loyalists
+12268,8,6,376.24,2,Potential loyalists
+12269,161,3,243.98,0,Lapsed / At risk
+12270,40,11,2174.25,1,Champions / Loyal
+12271,29,6,565.6,2,Potential loyalists
+12272,298,2,178.51,0,Lapsed / At risk
+12273,232,1,134.91,0,Lapsed / At risk
+12274,86,7,630.91,2,Potential loyalists
+12275,1,5,606.49,2,Potential loyalists
+12276,55,3,128.52,2,Potential loyalists
+12277,8,12,2890.04,1,Champions / Loyal
+12278,210,2,146.26,0,Lapsed / At risk
+12279,11,2,93.25,2,Potential loyalists
+12280,47,5,370.44,2,Potential loyalists
+12281,25,5,428.61,2,Potential loyalists
+12282,8,12,2107.97,1,Champions / Loyal
+12283,46,6,590.18,2,Potential loyalists
+12284,261,1,53.58,0,Lapsed / At risk
+12285,268,1,3.48,0,Lapsed / At risk
+12286,274,2,190.15,0,Lapsed / At risk
+12287,173,2,249.27,0,Lapsed / At risk
+12288,34,6,486.37,2,Potential loyalists
+12289,222,2,213.85,0,Lapsed / At risk
+12290,177,1,143.62,0,Lapsed / At risk
+12291,263,1,201.34,0,Lapsed / At risk
+12292,206,2,297.53,0,Lapsed / At risk
+12293,334,1,60.71,0,Lapsed / At risk
+12294,174,1,114.94,0,Lapsed / At risk
+12295,7,20,4631.32,1,Champions / Loyal
+12296,293,1,247.55,0,Lapsed / At risk
+12297,50,2,272.29,2,Potential loyalists
+12298,147,4,417.44,2,Potential loyalists
+12299,197,1,36.13,0,Lapsed / At risk
+12300,186,1,3.05,0,Lapsed / At risk
+12301,332,2,243.24,0,Lapsed / At risk
+12302,121,6,418.4,2,Potential loyalists
+12303,176,1,6.45,0,Lapsed / At risk
+12304,337,1,154.77,0,Lapsed / At risk
+12305,35,6,451.28,2,Potential loyalists
+12306,1,13,2700.9,1,Champions / Loyal
+12307,32,26,5795.52,1,Champions / Loyal
+12308,362,1,40.11,0,Lapsed / At risk
+12309,223,2,87.12,0,Lapsed / At risk
+12310,204,2,79.57,0,Lapsed / At risk
+12311,74,4,437.32,2,Potential loyalists
+12312,313,1,108.27,0,Lapsed / At risk
+12313,32,4,719.26,2,Potential loyalists
+12314,267,1,69.19,0,Lapsed / At risk
+12315,4,21,4505.74,1,Champions / Loyal
+12316,94,4,416.55,2,Potential loyalists
+12317,303,2,26.73,0,Lapsed / At risk
+12318,304,2,121.87,0,Lapsed / At risk
+12319,197,2,229.64,0,Lapsed / At risk
+12320,18,27,7785.1,1,Champions / Loyal
+12321,207,3,303.65,0,Lapsed / At risk
+12322,5,10,1866.85,1,Champions / Loyal
+12323,6,12,3187.22,1,Champions / Loyal
+12324,270,1,79.86,0,Lapsed / At risk
+12325,323,1,87.36,0,Lapsed / At risk
+12326,263,1,78.75,0,Lapsed / At risk
+12327,355,1,38.32,0,Lapsed / At risk
+12328,206,2,213.02,0,Lapsed / At risk
+12329,224,2,90.61,0,Lapsed / At risk
+12330,30,16,4002.69,1,Champions / Loyal
+12331,25,5,578.78,2,Potential loyalists
+12332,217,2,118.14,0,Lapsed / At risk
+12333,254,2,264.41,0,Lapsed / At risk
+12334,1,28,6444.52,1,Champions / Loyal
+12335,87,6,361.06,2,Potential loyalists
+12336,174,2,145.07,0,Lapsed / At risk
+12337,29,27,5382.47,1,Champions / Loyal
+12338,1,7,523.53,2,Potential loyalists
+12339,208,2,293.86,0,Lapsed / At risk
+12340,199,1,28.8,0,Lapsed / At risk
+12341,2,6,454.49,2,Potential loyalists
+12342,190,2,87.73,0,Lapsed / At risk
+12343,35,7,384.66,2,Potential loyalists
+12344,252,1,104.8,0,Lapsed / At risk
+12345,60,5,495.82,2,Potential loyalists
+12346,88,4,175.51,2,Potential loyalists
+12347,58,7,641.8,2,Potential loyalists
+12348,13,7,316.05,2,Potential loyalists
+12349,213,1,67.31,0,Lapsed / At risk
+12350,53,4,355.37,2,Potential loyalists
+12351,19,23,4237.34,1,Champions / Loyal
+12352,34,3,200.92,2,Potential loyalists
+12353,265,1,2.5,0,Lapsed / At risk
+12354,180,1,147.75,0,Lapsed / At risk
+12355,284,1,11.4,0,Lapsed / At risk
+12356,70,6,449.26,2,Potential loyalists
+12357,54,4,309.17,2,Potential loyalists
+12358,40,11,3285.36,1,Champions / Loyal
+12359,72,3,313.1,2,Potential loyalists
+12360,320,2,300.64,0,Lapsed / At risk
+12361,363,1,113.73,0,Lapsed / At risk
+12362,196,4,223.84,0,Lapsed / At risk
+12363,49,7,361.79,2,Potential loyalists
+12364,254,1,166.34,0,Lapsed / At risk
+12365,40,4,351.63,2,Potential loyalists
+12366,11,26,5888.87,1,Champions / Loyal
+12367,131,3,167.12,0,Lapsed / At risk
+12368,2,12,2633.06,1,Champions / Loyal
+12369,36,2,155.19,2,Potential loyalists
+12370,32,13,3553.87,1,Champions / Loyal
+12371,50,7,350.53,2,Potential loyalists
+12372,318,1,95.07,0,Lapsed / At risk
+12373,31,4,324.78,2,Potential loyalists
+12374,29,2,292.63,2,Potential loyalists
+12375,202,2,168.0,0,Lapsed / At risk
+12376,338,1,60.72,0,Lapsed / At risk
+12377,94,6,487.04,2,Potential loyalists
+12378,50,6,485.07,2,Potential loyalists
+12379,331,1,139.27,0,Lapsed / At risk
+12380,56,2,118.92,0,Lapsed / At risk
+12381,67,2,337.71,2,Potential loyalists
+12382,211,2,256.38,0,Lapsed / At risk
+12383,5,4,534.3,2,Potential loyalists
+12384,276,1,38.67,0,Lapsed / At risk
+12385,139,5,525.23,2,Potential loyalists
+12386,268,2,188.73,0,Lapsed / At risk
+12387,45,5,463.74,2,Potential loyalists
+12388,3,7,543.55,2,Potential loyalists
+12389,39,4,271.44,2,Potential loyalists
+12390,49,2,93.53,0,Lapsed / At risk
+12391,237,2,53.46,0,Lapsed / At risk
+12392,51,5,493.5,2,Potential loyalists
+12393,39,6,696.98,2,Potential loyalists
+12394,176,1,67.68,0,Lapsed / At risk
+12395,273,2,183.87,0,Lapsed / At risk
+12396,85,2,200.77,0,Lapsed / At risk
+12397,20,7,710.25,2,Potential loyalists
+12398,178,2,241.44,0,Lapsed / At risk
+12399,203,2,189.18,0,Lapsed / At risk
+12400,209,2,168.7,0,Lapsed / At risk
+12401,337,1,115.01,0,Lapsed / At risk
+12402,284,2,175.24,0,Lapsed / At risk
+12403,199,2,84.68,0,Lapsed / At risk
+12404,11,7,721.59,2,Potential loyalists
+12405,17,15,2993.99,1,Champions / Loyal
+12406,239,2,286.84,0,Lapsed / At risk
+12407,252,2,222.64,0,Lapsed / At risk
+12408,51,5,249.0,2,Potential loyalists
+12409,50,2,165.45,2,Potential loyalists
+12410,3,29,5051.55,1,Champions / Loyal
+12411,294,1,8.8,0,Lapsed / At risk
+12412,20,12,2643.57,1,Champions / Loyal
+12413,37,18,3595.34,1,Champions / Loyal
+12414,45,2,128.12,2,Potential loyalists
+12415,4,26,6380.8,1,Champions / Loyal
+12416,56,6,949.14,2,Potential loyalists
+12417,90,4,397.15,2,Potential loyalists
+12418,7,6,690.88,2,Potential loyalists
+12419,1,24,5764.7,1,Champions / Loyal
+12420,33,18,4959.72,1,Champions / Loyal
+12421,67,7,545.82,2,Potential loyalists
+12422,63,13,2730.05,1,Champions / Loyal
+12423,284,2,201.36,0,Lapsed / At risk
+12424,78,2,238.95,0,Lapsed / At risk
+12425,35,3,459.67,2,Potential loyalists
+12426,16,7,595.52,2,Potential loyalists
+12427,57,3,562.57,2,Potential loyalists
+12428,4,15,3611.81,1,Champions / Loyal
+12429,24,24,4629.68,1,Champions / Loyal
+12430,293,2,211.69,0,Lapsed / At risk
+12431,42,15,3712.53,1,Champions / Loyal
+12432,49,4,323.44,2,Potential loyalists
+12433,82,3,450.15,2,Potential loyalists
+12434,164,3,158.81,0,Lapsed / At risk
+12435,60,4,388.32,2,Potential loyalists
+12436,311,1,149.8,0,Lapsed / At risk
+12437,234,2,237.29,0,Lapsed / At risk
+12438,36,6,687.62,2,Potential loyalists
+12439,116,2,292.34,0,Lapsed / At risk
+12440,151,4,502.08,2,Potential loyalists
+12441,39,3,48.61,2,Potential loyalists
+12442,232,1,150.57,0,Lapsed / At risk
+12443,76,2,138.04,0,Lapsed / At risk
+12444,45,2,175.72,2,Potential loyalists
+12445,338,1,49.67,0,Lapsed / At risk
+12446,21,23,3969.48,1,Champions / Loyal
+12447,123,6,311.96,2,Potential loyalists
+12448,203,2,193.88,0,Lapsed / At risk
+12449,11,4,463.97,2,Potential loyalists
+12450,37,13,2884.59,1,Champions / Loyal
+12451,6,10,2544.79,1,Champions / Loyal
+12452,172,1,67.81,0,Lapsed / At risk
+12453,31,29,8033.35,1,Champions / Loyal
+12454,15,7,619.11,2,Potential loyalists
+12455,7,23,4716.2,1,Champions / Loyal
+12456,1,26,5720.32,1,Champions / Loyal
+12457,251,1,23.5,0,Lapsed / At risk
+12458,138,2,145.12,0,Lapsed / At risk
+12459,40,7,680.54,2,Potential loyalists
+12460,4,7,565.36,2,Potential loyalists
+12461,177,2,243.7,0,Lapsed / At risk
+12462,16,25,4355.5,1,Champions / Loyal
+12463,232,2,175.85,0,Lapsed / At risk
+12464,198,1,124.12,0,Lapsed / At risk
+12465,32,4,201.9,2,Potential loyalists
+12466,323,2,119.26,0,Lapsed / At risk
+12467,216,2,25.76,0,Lapsed / At risk
+12468,53,5,496.23,2,Potential loyalists
+12469,365,1,144.16,0,Lapsed / At risk
+12470,51,6,464.94,2,Potential loyalists
+12471,188,1,105.1,0,Lapsed / At risk
+12472,311,2,243.23,0,Lapsed / At risk
+12473,216,2,128.37,0,Lapsed / At risk
+12474,321,1,8.18,0,Lapsed / At risk
+12475,25,7,527.52,2,Potential loyalists
+12476,305,2,330.38,0,Lapsed / At risk
+12477,270,2,93.75,0,Lapsed / At risk
+12478,85,5,347.42,2,Potential loyalists
+12479,125,5,314.46,2,Potential loyalists
+12480,87,4,474.95,2,Potential loyalists
+12481,15,29,6891.94,1,Champions / Loyal
+12482,38,22,5760.13,1,Champions / Loyal
+12483,33,6,519.9,2,Potential loyalists
+12484,24,13,2681.02,1,Champions / Loyal
+12485,242,3,265.79,0,Lapsed / At risk
+12486,243,2,156.78,0,Lapsed / At risk
+12487,223,1,75.27,0,Lapsed / At risk
+12488,362,1,34.24,0,Lapsed / At risk
+12489,20,3,495.17,2,Potential loyalists
+12490,308,2,123.54,0,Lapsed / At risk
+12491,35,2,165.35,2,Potential loyalists
+12492,38,26,6306.2,1,Champions / Loyal
+12493,32,26,5292.15,1,Champions / Loyal
+12494,192,1,83.01,0,Lapsed / At risk
+12495,44,5,416.57,2,Potential loyalists
+12496,32,3,243.22,2,Potential loyalists
+12497,265,2,96.06,0,Lapsed / At risk
+12498,47,11,3436.16,1,Champions / Loyal
+12499,37,10,2472.82,1,Champions / Loyal
+12500,227,1,12.1,0,Lapsed / At risk
+12501,80,2,130.4,0,Lapsed / At risk
+12502,29,26,4398.84,1,Champions / Loyal
+12503,268,2,95.76,0,Lapsed / At risk
+12504,361,1,17.89,0,Lapsed / At risk
+12505,118,4,191.38,2,Potential loyalists
+12506,168,2,99.3,0,Lapsed / At risk
+12507,67,6,319.66,2,Potential loyalists
+12508,24,11,1712.53,1,Champions / Loyal
+12509,3,4,259.42,2,Potential loyalists
+12510,198,2,106.5,0,Lapsed / At risk
+12511,304,2,238.69,0,Lapsed / At risk
+12512,311,1,42.71,0,Lapsed / At risk
+12513,30,28,8125.1,1,Champions / Loyal
+12514,91,4,384.46,2,Potential loyalists
+12515,31,6,385.37,2,Potential loyalists
+12516,280,2,216.48,0,Lapsed / At risk
+12517,4,4,177.53,2,Potential loyalists
+12518,166,2,248.26,0,Lapsed / At risk
+12519,45,5,353.32,2,Potential loyalists
+12520,4,5,405.24,2,Potential loyalists
+12521,220,1,2.38,0,Lapsed / At risk
+12522,278,1,43.5,0,Lapsed / At risk
+12523,291,2,112.31,0,Lapsed / At risk
+12524,208,1,67.56,0,Lapsed / At risk
+12525,268,1,156.43,0,Lapsed / At risk
+12526,87,5,255.27,2,Potential loyalists
+12527,55,6,685.63,2,Potential loyalists
+12528,41,14,2874.96,1,Champions / Loyal
+12529,193,2,152.37,0,Lapsed / At risk
+12530,54,4,539.28,2,Potential loyalists
+12531,65,4,692.56,2,Potential loyalists
+12532,5,23,5579.59,1,Champions / Loyal
+12533,245,1,173.18,0,Lapsed / At risk
+12534,65,2,228.82,2,Potential loyalists
+12535,350,2,146.09,0,Lapsed / At risk
+12536,43,13,3096.08,1,Champions / Loyal
+12537,314,1,44.0,0,Lapsed / At risk
+12538,35,6,413.53,2,Potential loyalists
+12539,17,7,701.26,2,Potential loyalists
+12540,206,1,11.42,0,Lapsed / At risk
+12541,226,1,9.06,0,Lapsed / At risk
+12542,55,7,600.42,2,Potential loyalists
+12543,144,2,312.34,0,Lapsed / At risk
+12544,311,2,280.04,0,Lapsed / At risk
+12545,229,1,174.63,0,Lapsed / At risk
+12546,4,5,437.43,2,Potential loyalists
+12547,29,3,330.4,2,Potential loyalists
+12548,263,2,150.19,0,Lapsed / At risk
+12549,222,1,38.12,0,Lapsed / At risk
+12550,230,2,193.65,0,Lapsed / At risk
+12551,35,6,661.74,2,Potential loyalists
+12552,32,23,5160.61,1,Champions / Loyal
+12553,198,2,116.85,0,Lapsed / At risk
+12554,206,2,127.92,0,Lapsed / At risk
+12555,275,2,18.34,0,Lapsed / At risk
+12556,7,27,5425.68,1,Champions / Loyal
+12557,124,5,460.31,2,Potential loyalists
+12558,172,2,43.98,0,Lapsed / At risk
+12559,39,13,2512.82,1,Champions / Loyal
+12560,233,1,24.79,0,Lapsed / At risk
+12561,70,4,469.06,2,Potential loyalists
+12562,279,2,223.39,0,Lapsed / At risk
+12563,319,2,152.04,0,Lapsed / At risk
+12564,106,5,616.07,2,Potential loyalists
+12565,38,6,443.86,2,Potential loyalists
+12566,189,1,6.4,0,Lapsed / At risk
+12567,40,5,377.98,2,Potential loyalists
+12568,43,3,323.35,2,Potential loyalists
+12569,331,1,163.61,0,Lapsed / At risk
+12570,359,1,150.6,0,Lapsed / At risk
+12571,64,6,485.99,2,Potential loyalists
+12572,27,6,521.96,2,Potential loyalists
+12573,88,5,567.1,2,Potential loyalists
+12574,78,6,468.56,2,Potential loyalists
+12575,15,17,2915.7,1,Champions / Loyal
+12576,25,6,466.38,2,Potential loyalists
+12577,247,2,289.38,0,Lapsed / At risk
+12578,69,6,556.09,2,Potential loyalists
+12579,231,1,59.38,0,Lapsed / At risk
+12580,39,5,578.56,2,Potential loyalists
+12581,34,22,4416.05,1,Champions / Loyal
+12582,291,2,230.19,0,Lapsed / At risk
+12583,258,1,37.72,0,Lapsed / At risk
+12584,77,4,284.35,2,Potential loyalists
+12585,39,4,390.52,2,Potential loyalists
+12586,50,5,342.04,2,Potential loyalists
+12587,21,6,546.99,2,Potential loyalists
+12588,65,2,160.89,0,Lapsed / At risk
+12589,76,2,193.14,0,Lapsed / At risk
+12590,40,28,5557.71,1,Champions / Loyal
+12591,12,4,254.09,2,Potential loyalists
+12592,189,1,32.6,0,Lapsed / At risk
+12593,318,1,14.1,0,Lapsed / At risk
+12594,67,4,287.59,2,Potential loyalists
+12595,10,29,5233.54,1,Champions / Loyal
+12596,135,2,132.79,0,Lapsed / At risk
+12597,32,4,229.96,2,Potential loyalists
+12598,362,1,34.84,0,Lapsed / At risk
+12599,225,2,205.18,0,Lapsed / At risk
+12600,288,2,111.08,0,Lapsed / At risk
+12601,255,1,42.22,0,Lapsed / At risk
+12602,295,2,121.27,0,Lapsed / At risk
+12603,243,2,305.14,0,Lapsed / At risk
+12604,2,22,6763.24,1,Champions / Loyal
+12605,3,18,3666.15,1,Champions / Loyal
+12606,25,3,240.45,2,Potential loyalists
+12607,57,2,295.7,2,Potential loyalists
+12608,10,10,1816.85,1,Champions / Loyal
+12609,331,1,38.41,0,Lapsed / At risk
+12610,194,2,115.13,0,Lapsed / At risk
+12611,6,4,511.26,2,Potential loyalists
+12612,80,2,106.49,0,Lapsed / At risk
+12613,250,2,144.14,0,Lapsed / At risk
+12614,5,5,551.07,2,Potential loyalists
+12615,271,1,64.34,0,Lapsed / At risk
+12616,27,6,561.72,2,Potential loyalists
+12617,350,1,115.66,0,Lapsed / At risk
+12618,99,2,303.5,0,Lapsed / At risk
+12619,31,7,713.0,2,Potential loyalists
+12620,26,7,559.34,2,Potential loyalists
+12621,221,1,19.17,0,Lapsed / At risk
+12622,312,1,35.6,0,Lapsed / At risk
+12623,52,7,988.75,2,Potential loyalists
+12624,174,2,171.93,0,Lapsed / At risk
+12625,15,11,2082.62,1,Champions / Loyal
+12626,347,1,17.94,0,Lapsed / At risk
+12627,7,25,5305.96,1,Champions / Loyal
+12628,32,7,574.02,2,Potential loyalists
+12629,296,1,234.02,0,Lapsed / At risk
+12630,29,6,630.38,2,Potential loyalists
+12631,24,7,475.43,2,Potential loyalists
+12632,65,6,280.42,2,Potential loyalists
+12633,65,3,58.66,0,Lapsed / At risk
+12634,236,1,66.01,0,Lapsed / At risk
+12635,272,2,136.07,0,Lapsed / At risk
+12636,172,2,121.57,0,Lapsed / At risk
+12637,15,7,540.75,2,Potential loyalists
+12638,72,6,436.74,2,Potential loyalists
+12639,40,6,473.55,2,Potential loyalists
+12640,3,3,343.07,2,Potential loyalists
+12641,54,3,254.64,2,Potential loyalists
+12642,271,1,30.15,0,Lapsed / At risk
+12643,187,2,222.49,0,Lapsed / At risk
+12644,241,1,134.8,0,Lapsed / At risk
+12645,35,5,191.39,2,Potential loyalists
+12646,49,6,475.5,2,Potential loyalists
+12647,29,4,298.98,2,Potential loyalists
+12648,44,5,135.77,2,Potential loyalists
+12649,84,3,473.47,2,Potential loyalists
+12650,29,28,6490.42,1,Champions / Loyal
+12651,3,12,3372.97,1,Champions / Loyal
+12652,250,1,6.56,0,Lapsed / At risk
+12653,37,4,386.48,2,Potential loyalists
+12654,179,2,118.44,0,Lapsed / At risk
+12655,46,6,345.1,2,Potential loyalists
+12656,245,4,198.49,0,Lapsed / At risk
+12657,47,7,728.1,2,Potential loyalists
+12658,70,5,190.94,2,Potential loyalists
+12659,4,14,3462.27,1,Champions / Loyal
+12660,15,14,3481.6,1,Champions / Loyal
+12661,323,1,16.44,0,Lapsed / At risk
+12662,78,4,606.42,2,Potential loyalists
+12663,301,1,46.32,0,Lapsed / At risk
+12664,162,2,75.29,0,Lapsed / At risk
+12665,75,2,184.15,0,Lapsed / At risk
+12666,58,6,482.47,2,Potential loyalists
+12667,55,7,859.48,2,Potential loyalists
+12668,254,1,60.96,0,Lapsed / At risk
+12669,256,1,156.74,0,Lapsed / At risk
+12670,288,1,49.63,0,Lapsed / At risk
+12671,82,4,293.34,2,Potential loyalists
+12672,70,6,559.88,2,Potential loyalists
+12673,359,1,86.36,0,Lapsed / At risk
+12674,10,7,516.95,2,Potential loyalists
+12675,28,21,4464.76,1,Champions / Loyal
+12676,74,2,338.56,2,Potential loyalists
+12677,252,1,66.13,0,Lapsed / At risk
+12678,333,1,292.16,0,Lapsed / At risk
+12679,189,2,90.2,0,Lapsed / At risk
+12680,199,2,166.14,0,Lapsed / At risk
+12681,18,7,393.95,2,Potential loyalists
+12682,172,1,77.43,0,Lapsed / At risk
+12683,72,7,625.2,2,Potential loyalists
+12684,221,2,280.09,0,Lapsed / At risk
+12685,35,21,5375.28,1,Champions / Loyal
+12686,242,2,161.26,0,Lapsed / At risk
+12687,110,2,135.96,0,Lapsed / At risk
+12688,15,22,5551.0,1,Champions / Loyal
+12689,23,6,366.42,2,Potential loyalists
+12690,5,26,5692.6,1,Champions / Loyal
+12691,10,6,831.1,2,Potential loyalists
+12692,345,1,69.91,0,Lapsed / At risk
+12693,80,6,510.79,2,Potential loyalists
+12694,196,2,69.89,0,Lapsed / At risk
+12695,16,6,622.21,2,Potential loyalists
+12696,281,1,107.63,0,Lapsed / At risk
+12697,47,7,774.55,2,Potential loyalists
+12698,210,1,5.81,0,Lapsed / At risk
+12699,28,7,969.47,2,Potential loyalists
+12700,43,3,252.93,2,Potential loyalists
+12701,201,2,101.0,0,Lapsed / At risk
+12702,8,7,638.31,2,Potential loyalists
+12703,44,4,166.93,2,Potential loyalists
+12704,193,2,241.89,0,Lapsed / At risk
+12705,217,1,9.65,0,Lapsed / At risk
+12706,17,11,2634.41,1,Champions / Loyal
+12707,19,7,431.04,2,Potential loyalists
+12708,270,1,289.77,0,Lapsed / At risk
+12709,176,2,130.91,0,Lapsed / At risk
+12710,259,1,164.6,0,Lapsed / At risk
+12711,37,2,112.2,2,Potential loyalists
+12712,170,2,212.44,0,Lapsed / At risk
+12713,157,6,628.67,2,Potential loyalists
+12714,252,1,129.52,0,Lapsed / At risk
+12715,53,5,361.6,2,Potential loyalists
+12716,316,1,148.57,0,Lapsed / At risk
+12717,77,2,104.37,0,Lapsed / At risk
+12718,41,5,563.6,2,Potential loyalists
+12719,286,1,46.2,0,Lapsed / At risk
+12720,8,7,766.33,2,Potential loyalists
+12721,200,1,187.85,0,Lapsed / At risk
+12722,40,6,275.48,2,Potential loyalists
+12723,219,1,103.78,0,Lapsed / At risk
+12724,68,6,779.32,2,Potential loyalists
+12725,115,2,107.38,0,Lapsed / At risk
+12726,13,7,1103.52,2,Potential loyalists
+12727,33,10,2578.56,1,Champions / Loyal
+12728,39,20,3510.81,1,Champions / Loyal
+12729,230,1,44.28,0,Lapsed / At risk
+12730,270,1,10.71,0,Lapsed / At risk
+12731,331,1,58.36,0,Lapsed / At risk
+12732,25,19,4537.9,1,Champions / Loyal
+12733,1,3,156.12,2,Potential loyalists
+12734,54,3,526.15,2,Potential loyalists
+12735,203,2,79.44,0,Lapsed / At risk
+12736,236,1,22.33,0,Lapsed / At risk
+12737,144,2,283.9,0,Lapsed / At risk
+12738,234,1,32.1,0,Lapsed / At risk
+12739,18,12,1959.09,1,Champions / Loyal
+12740,30,6,484.74,2,Potential loyalists
+12741,39,15,4280.89,1,Champions / Loyal
+12742,94,2,156.76,0,Lapsed / At risk
+12743,191,2,95.65,0,Lapsed / At risk
+12744,193,1,49.84,0,Lapsed / At risk
+12745,45,6,574.7,2,Potential loyalists
+12746,33,4,245.02,2,Potential loyalists
+12747,246,2,56.92,0,Lapsed / At risk
+12748,228,2,19.88,0,Lapsed / At risk
+12749,249,1,69.03,0,Lapsed / At risk
+12750,51,4,391.02,2,Potential loyalists
+12751,357,1,174.61,0,Lapsed / At risk
+12752,11,4,334.19,2,Potential loyalists
+12753,350,2,180.65,0,Lapsed / At risk
+12754,24,6,483.18,2,Potential loyalists
+12755,180,2,96.64,0,Lapsed / At risk
+12756,15,25,6040.65,1,Champions / Loyal
+12757,40,7,837.37,2,Potential loyalists
+12758,262,1,165.39,0,Lapsed / At risk
+12759,201,2,133.76,0,Lapsed / At risk
+12760,86,2,321.61,0,Lapsed / At risk
+12761,259,2,179.94,0,Lapsed / At risk
+12762,268,2,98.19,0,Lapsed / At risk
+12763,33,6,1026.06,2,Potential loyalists
+12764,33,3,314.88,2,Potential loyalists
+12765,39,3,272.17,2,Potential loyalists
+12766,167,2,124.22,0,Lapsed / At risk
+12767,67,3,342.55,2,Potential loyalists
+12768,33,2,94.66,2,Potential loyalists
+12769,261,2,28.64,0,Lapsed / At risk
+12770,296,2,154.34,0,Lapsed / At risk
+12771,209,2,241.13,0,Lapsed / At risk
+12772,311,2,169.96,0,Lapsed / At risk
+12773,193,2,158.65,0,Lapsed / At risk
+12774,172,2,39.72,0,Lapsed / At risk
+12775,322,2,127.96,0,Lapsed / At risk
+12776,71,4,146.46,2,Potential loyalists
+12777,13,4,201.31,2,Potential loyalists
+12778,49,4,316.54,2,Potential loyalists
+12779,256,2,224.78,0,Lapsed / At risk
+12780,23,4,369.37,2,Potential loyalists
+12781,36,6,322.35,2,Potential loyalists
+12782,34,3,322.25,2,Potential loyalists
+12783,304,3,249.53,0,Lapsed / At risk
+12784,34,4,109.37,2,Potential loyalists
+12785,264,1,183.0,0,Lapsed / At risk
+12786,251,1,74.75,0,Lapsed / At risk
+12787,39,5,511.49,2,Potential loyalists
+12788,9,26,5978.75,1,Champions / Loyal
+12789,44,5,387.81,2,Potential loyalists
+12790,307,1,137.15,0,Lapsed / At risk
+12791,206,2,125.37,0,Lapsed / At risk
+12792,22,24,6733.83,1,Champions / Loyal
+12793,173,2,297.14,0,Lapsed / At risk
+12794,30,17,2874.25,1,Champions / Loyal
+12795,54,5,559.97,2,Potential loyalists
+12796,232,2,233.96,0,Lapsed / At risk
+12797,14,3,233.11,2,Potential loyalists
+12798,5,4,703.8,2,Potential loyalists
+12799,42,5,552.16,2,Potential loyalists
+12800,195,1,71.4,0,Lapsed / At risk
+12801,168,2,109.47,0,Lapsed / At risk
+12802,188,1,102.77,0,Lapsed / At risk
+12803,24,28,6150.21,1,Champions / Loyal
+12804,3,17,3274.91,1,Champions / Loyal
+12805,181,1,10.47,0,Lapsed / At risk
+12806,46,4,520.62,2,Potential loyalists
+12807,225,1,127.28,0,Lapsed / At risk
+12808,249,1,93.77,0,Lapsed / At risk
+12809,36,25,5496.74,1,Champions / Loyal
+12810,190,2,88.12,0,Lapsed / At risk
+12811,63,2,133.26,0,Lapsed / At risk
+12812,69,7,408.35,2,Potential loyalists
+12813,40,5,368.61,2,Potential loyalists
+12814,77,3,135.28,0,Lapsed / At risk
+12815,323,1,48.79,0,Lapsed / At risk
+12816,288,1,49.3,0,Lapsed / At risk
+12817,361,1,83.71,0,Lapsed / At risk
+12818,182,1,8.34,0,Lapsed / At risk
+12819,11,6,400.99,2,Potential loyalists
+12820,4,12,2184.18,1,Champions / Loyal
+12821,241,2,44.56,0,Lapsed / At risk
+12822,208,1,24.6,0,Lapsed / At risk
+12823,48,5,476.22,2,Potential loyalists
+12824,48,4,434.94,2,Potential loyalists
+12825,40,7,488.74,2,Potential loyalists
+12826,21,14,2381.99,1,Champions / Loyal
+12827,196,2,292.41,0,Lapsed / At risk
+12828,70,5,295.24,2,Potential loyalists
+12829,279,1,80.23,0,Lapsed / At risk
+12830,192,2,56.96,0,Lapsed / At risk
+12831,175,1,97.63,0,Lapsed / At risk
+12832,79,5,412.09,2,Potential loyalists
+12833,195,3,286.68,0,Lapsed / At risk
+12834,208,2,330.25,0,Lapsed / At risk
+12835,269,1,107.79,0,Lapsed / At risk
+12836,37,7,708.4,2,Potential loyalists
+12837,237,2,386.67,0,Lapsed / At risk
+12838,33,17,4709.37,1,Champions / Loyal
+12839,205,2,224.67,0,Lapsed / At risk
+12840,7,25,5467.31,1,Champions / Loyal
+12841,28,2,317.81,2,Potential loyalists
+12842,51,2,275.02,2,Potential loyalists
+12843,19,13,2882.43,1,Champions / Loyal
+12844,42,14,2584.38,1,Champions / Loyal
+12845,2,27,5674.77,1,Champions / Loyal
+12846,52,7,440.62,2,Potential loyalists
+12847,181,2,274.36,0,Lapsed / At risk
+12848,31,28,7407.03,1,Champions / Loyal
+12849,218,2,296.66,0,Lapsed / At risk
+12850,289,2,106.83,0,Lapsed / At risk
+12851,70,5,492.96,2,Potential loyalists
+12852,16,16,3400.85,1,Champions / Loyal
+12853,184,1,107.03,0,Lapsed / At risk
+12854,260,1,15.81,0,Lapsed / At risk
+12855,91,2,59.42,0,Lapsed / At risk
+12856,180,2,225.37,0,Lapsed / At risk
+12857,46,13,3704.17,1,Champions / Loyal
+12858,37,7,571.97,2,Potential loyalists
+12859,210,2,365.09,0,Lapsed / At risk
+12860,47,3,279.93,2,Potential loyalists
+12861,175,1,105.89,0,Lapsed / At risk
+12862,51,4,171.06,2,Potential loyalists
+12863,217,2,196.18,0,Lapsed / At risk
+12864,53,6,241.35,2,Potential loyalists
+12865,78,5,498.04,2,Potential loyalists
+12866,96,2,156.85,0,Lapsed / At risk
+12867,53,7,674.98,2,Potential loyalists
+12868,260,2,296.84,0,Lapsed / At risk
+12869,40,28,5105.89,1,Champions / Loyal
+12870,21,21,5086.1,1,Champions / Loyal
+12871,37,7,473.51,2,Potential loyalists
+12872,25,5,357.62,2,Potential loyalists
+12873,197,2,95.98,0,Lapsed / At risk
+12874,93,4,121.89,2,Potential loyalists
+12875,200,1,41.47,0,Lapsed / At risk
+12876,36,29,8204.05,1,Champions / Loyal
+12877,289,1,77.39,0,Lapsed / At risk
+12878,23,5,466.91,2,Potential loyalists
+12879,39,7,423.49,2,Potential loyalists
+12880,234,1,62.41,0,Lapsed / At risk
+12881,195,1,12.5,0,Lapsed / At risk
+12882,170,2,38.37,0,Lapsed / At risk
+12883,49,2,206.57,2,Potential loyalists
+12884,5,7,354.2,2,Potential loyalists
+12885,174,2,164.64,0,Lapsed / At risk
+12886,75,2,136.26,0,Lapsed / At risk
+12887,314,1,13.8,0,Lapsed / At risk
+12888,43,5,425.52,2,Potential loyalists
+12889,20,5,538.51,2,Potential loyalists
+12890,204,1,140.3,0,Lapsed / At risk
+12891,282,2,146.68,0,Lapsed / At risk
+12892,6,25,6880.04,1,Champions / Loyal
+12893,7,26,5113.41,1,Champions / Loyal
+12894,214,1,79.64,0,Lapsed / At risk
+12895,83,3,81.04,0,Lapsed / At risk
+12896,14,6,432.01,2,Potential loyalists
+12897,146,4,395.13,2,Potential loyalists
+12898,293,1,184.78,0,Lapsed / At risk
+12899,213,2,191.37,0,Lapsed / At risk
+12900,38,5,649.56,2,Potential loyalists
+12901,214,2,223.78,0,Lapsed / At risk
+12902,9,7,600.17,2,Potential loyalists
+12903,10,7,515.89,2,Potential loyalists
+12904,21,7,527.64,2,Potential loyalists
+12905,36,5,529.63,2,Potential loyalists
+12906,328,1,40.92,0,Lapsed / At risk
+12907,31,27,5600.71,1,Champions / Loyal
+12908,9,20,3561.94,1,Champions / Loyal
+12909,33,7,593.06,2,Potential loyalists
+12910,257,1,3.17,0,Lapsed / At risk
+12911,240,1,35.42,0,Lapsed / At risk
+12912,55,5,249.84,2,Potential loyalists
+12913,302,1,70.19,0,Lapsed / At risk
+12914,76,5,258.38,2,Potential loyalists
+12915,88,4,360.08,2,Potential loyalists
+12916,293,2,289.25,0,Lapsed / At risk
+12917,1,16,4171.18,1,Champions / Loyal
+12918,78,5,617.91,2,Potential loyalists
+12919,67,7,634.88,2,Potential loyalists
+12920,65,4,283.8,2,Potential loyalists
+12921,353,1,68.59,0,Lapsed / At risk
+12922,153,4,646.97,2,Potential loyalists
+12923,10,29,6857.92,1,Champions / Loyal
+12924,58,3,383.64,2,Potential loyalists
+12925,94,3,116.42,0,Lapsed / At risk
+12926,65,4,289.35,2,Potential loyalists
+12927,14,21,4862.26,1,Champions / Loyal
+12928,198,1,178.88,0,Lapsed / At risk
+12929,55,2,292.86,2,Potential loyalists
+12930,31,6,615.08,2,Potential loyalists
+12931,36,24,5618.39,1,Champions / Loyal
+12932,198,3,367.52,0,Lapsed / At risk
+12933,49,4,267.43,2,Potential loyalists
+12934,237,2,79.77,0,Lapsed / At risk
+12935,50,4,413.39,2,Potential loyalists
+12936,186,2,148.46,0,Lapsed / At risk
+12937,261,1,144.15,0,Lapsed / At risk
+12938,6,22,4698.5,1,Champions / Loyal
+12939,34,20,3551.88,1,Champions / Loyal
+12940,24,23,6796.91,1,Champions / Loyal
+12941,288,1,35.58,0,Lapsed / At risk
+12942,22,23,5580.63,1,Champions / Loyal
+12943,176,2,227.09,0,Lapsed / At risk
+12944,279,1,22.0,0,Lapsed / At risk
+12945,251,1,56.17,0,Lapsed / At risk
+12946,2,5,374.76,2,Potential loyalists
+12947,213,1,24.81,0,Lapsed / At risk
+12948,30,18,3105.46,1,Champions / Loyal
+12949,23,5,134.37,2,Potential loyalists
+12950,67,2,136.88,0,Lapsed / At risk
+12951,224,2,212.61,0,Lapsed / At risk
+12952,98,3,444.91,2,Potential loyalists
+12953,232,2,182.63,0,Lapsed / At risk
+12954,233,2,164.9,0,Lapsed / At risk
+12955,184,1,54.17,0,Lapsed / At risk
+12956,46,6,272.84,2,Potential loyalists
+12957,90,3,180.13,0,Lapsed / At risk
+12958,171,2,102.89,0,Lapsed / At risk
+12959,108,5,270.99,2,Potential loyalists
+12960,62,3,376.75,2,Potential loyalists
+12961,32,3,121.59,2,Potential loyalists
+12962,29,18,3482.06,1,Champions / Loyal
+12963,15,4,398.87,2,Potential loyalists
+12964,97,3,388.03,2,Potential loyalists
+12965,32,18,3503.52,1,Champions / Loyal
+12966,172,1,155.92,0,Lapsed / At risk
+12967,3,4,143.48,2,Potential loyalists
+12968,161,3,131.36,0,Lapsed / At risk
+12969,41,4,512.36,2,Potential loyalists
+12970,30,3,419.98,2,Potential loyalists
+12971,205,2,117.04,0,Lapsed / At risk
+12972,298,1,50.91,0,Lapsed / At risk
+12973,283,1,33.37,0,Lapsed / At risk
+12974,1,2,233.63,2,Potential loyalists
+12975,21,2,144.65,2,Potential loyalists
+12976,49,2,81.49,0,Lapsed / At risk
+12977,1,5,483.71,2,Potential loyalists
+12978,41,7,468.02,2,Potential loyalists
+12979,239,1,46.04,0,Lapsed / At risk
+12980,268,2,36.99,0,Lapsed / At risk
+12981,19,6,759.14,2,Potential loyalists
+12982,139,2,102.6,0,Lapsed / At risk
+12983,33,5,727.81,2,Potential loyalists
+12984,20,29,7633.65,1,Champions / Loyal
+12985,43,2,223.72,2,Potential loyalists
+12986,274,1,282.42,0,Lapsed / At risk
+12987,39,2,282.81,2,Potential loyalists
+12988,13,7,759.37,2,Potential loyalists
+12989,66,4,565.52,2,Potential loyalists
+12990,184,2,143.25,0,Lapsed / At risk
+12991,13,7,887.73,2,Potential loyalists
+12992,217,2,290.01,0,Lapsed / At risk
+12993,180,1,71.5,0,Lapsed / At risk
+12994,225,4,416.81,0,Lapsed / At risk
+12995,259,1,116.23,0,Lapsed / At risk
+12996,25,29,7030.96,1,Champions / Loyal
+12997,351,1,3.08,0,Lapsed / At risk
+12998,29,7,473.51,2,Potential loyalists
+12999,185,2,163.25,0,Lapsed / At risk
+13000,46,6,528.07,2,Potential loyalists
+13001,31,11,3013.26,1,Champions / Loyal
+13002,51,12,2686.62,1,Champions / Loyal
+13003,227,2,211.59,0,Lapsed / At risk
+13004,50,4,418.68,2,Potential loyalists
+13005,45,10,2626.85,1,Champions / Loyal
+13006,354,2,147.84,0,Lapsed / At risk
+13007,180,2,93.59,0,Lapsed / At risk
+13008,79,2,238.42,0,Lapsed / At risk
+13009,41,3,419.79,2,Potential loyalists
+13010,14,29,5500.79,1,Champions / Loyal
+13011,339,1,44.3,0,Lapsed / At risk
+13012,121,6,565.18,2,Potential loyalists
+13013,203,1,19.1,0,Lapsed / At risk
+13014,29,7,623.91,2,Potential loyalists
+13015,80,4,274.27,2,Potential loyalists
+13016,87,6,499.63,2,Potential loyalists
+13017,315,2,100.22,0,Lapsed / At risk
+13018,179,1,30.63,0,Lapsed / At risk
+13019,35,5,587.33,2,Potential loyalists
+13020,37,5,369.21,2,Potential loyalists
+13021,169,2,140.43,0,Lapsed / At risk
+13022,249,2,254.68,0,Lapsed / At risk
+13023,266,2,78.17,0,Lapsed / At risk
+13024,60,2,182.09,2,Potential loyalists
+13025,53,5,355.46,2,Potential loyalists
+13026,234,2,107.82,0,Lapsed / At risk
+13027,38,2,213.87,2,Potential loyalists
+13028,4,15,2459.44,1,Champions / Loyal
+13029,250,2,122.85,0,Lapsed / At risk
+13030,40,4,230.33,2,Potential loyalists
+13031,44,3,168.36,2,Potential loyalists
+13032,348,1,55.47,0,Lapsed / At risk
+13033,311,1,73.28,0,Lapsed / At risk
+13034,7,7,673.34,2,Potential loyalists
+13035,113,2,81.87,0,Lapsed / At risk
+13036,57,7,403.03,2,Potential loyalists
+13037,12,17,4244.09,1,Champions / Loyal
+13038,222,2,177.91,0,Lapsed / At risk
+13039,244,2,192.21,0,Lapsed / At risk
+13040,58,4,230.68,2,Potential loyalists
+13041,9,2,137.77,2,Potential loyalists
+13042,167,2,240.78,0,Lapsed / At risk
+13043,3,29,7664.68,1,Champions / Loyal
+13044,13,7,583.88,2,Potential loyalists
+13045,32,7,616.38,2,Potential loyalists
+13046,361,1,429.74,0,Lapsed / At risk
+13047,32,3,256.5,2,Potential loyalists
+13048,236,2,69.11,0,Lapsed / At risk
+13049,59,3,107.25,2,Potential loyalists
+13050,333,1,12.82,0,Lapsed / At risk
+13051,35,16,4162.01,1,Champions / Loyal
+13052,91,6,473.54,2,Potential loyalists
+13053,13,5,496.4,2,Potential loyalists
+13054,90,2,276.67,0,Lapsed / At risk
+13055,32,26,7119.7,1,Champions / Loyal
+13056,10,6,422.21,2,Potential loyalists
+13057,39,7,489.67,2,Potential loyalists
+13058,1,19,3298.38,1,Champions / Loyal
+13059,289,1,113.98,0,Lapsed / At risk
+13060,34,5,627.76,2,Potential loyalists
+13061,231,2,93.03,0,Lapsed / At risk
+13062,301,1,54.6,0,Lapsed / At risk
+13063,7,10,3092.88,1,Champions / Loyal
+13064,276,2,308.73,0,Lapsed / At risk
+13065,246,2,202.69,0,Lapsed / At risk
+13066,189,1,124.98,0,Lapsed / At risk
+13067,12,5,387.62,2,Potential loyalists
+13068,54,3,291.51,2,Potential loyalists
+13069,37,24,6677.55,1,Champions / Loyal
+13070,52,6,348.33,2,Potential loyalists
+13071,353,1,20.28,0,Lapsed / At risk
+13072,257,1,77.8,0,Lapsed / At risk
+13073,22,26,5330.52,1,Champions / Loyal
+13074,244,1,61.85,0,Lapsed / At risk
+13075,32,4,143.43,2,Potential loyalists
+13076,252,2,255.9,0,Lapsed / At risk
+13077,21,22,5813.9,1,Champions / Loyal
+13078,238,1,132.56,0,Lapsed / At risk
+13079,309,2,187.86,0,Lapsed / At risk
+13080,34,27,6346.81,1,Champions / Loyal
+13081,34,12,2664.34,1,Champions / Loyal
+13082,243,2,221.31,0,Lapsed / At risk
+13083,74,4,289.48,2,Potential loyalists
+13084,43,4,267.19,2,Potential loyalists
+13085,264,1,91.91,0,Lapsed / At risk
+13086,67,4,316.25,2,Potential loyalists
+13087,16,7,446.17,2,Potential loyalists
+13088,40,7,496.75,2,Potential loyalists
+13089,32,29,6052.09,1,Champions / Loyal
+13090,189,2,227.38,0,Lapsed / At risk
+13091,36,6,731.81,2,Potential loyalists
+13092,4,6,540.82,2,Potential loyalists
+13093,14,6,798.58,2,Potential loyalists
+13094,228,2,92.91,0,Lapsed / At risk
+13095,18,14,3152.39,1,Champions / Loyal
+13096,190,2,147.51,0,Lapsed / At risk
+13097,239,1,3.82,0,Lapsed / At risk
+13098,233,2,267.68,0,Lapsed / At risk
+13099,350,1,106.83,0,Lapsed / At risk
+13100,327,2,248.14,0,Lapsed / At risk
+13101,266,1,269.63,0,Lapsed / At risk
+13102,26,14,3186.1,1,Champions / Loyal
+13103,261,2,69.41,0,Lapsed / At risk
+13104,33,4,405.04,2,Potential loyalists
+13105,64,3,272.57,2,Potential loyalists
+13106,219,1,70.23,0,Lapsed / At risk
+13107,194,2,278.9,0,Lapsed / At risk
+13108,309,2,127.33,0,Lapsed / At risk
+13109,30,7,837.97,2,Potential loyalists
+13110,35,4,720.56,2,Potential loyalists
+13111,35,4,292.63,2,Potential loyalists
+13112,48,6,581.24,2,Potential loyalists
+13113,43,3,481.09,2,Potential loyalists
+13114,6,23,6306.85,1,Champions / Loyal
+13115,22,10,2273.91,1,Champions / Loyal
+13116,236,2,139.51,0,Lapsed / At risk
+13117,8,7,492.52,2,Potential loyalists
+13118,283,1,107.99,0,Lapsed / At risk
+13119,218,2,229.29,0,Lapsed / At risk
+13120,1,21,5013.22,1,Champions / Loyal
+13121,37,6,478.46,2,Potential loyalists
+13122,53,5,264.29,2,Potential loyalists
+13123,205,1,77.81,0,Lapsed / At risk
+13124,45,6,488.31,2,Potential loyalists
+13125,85,6,647.13,2,Potential loyalists
+13126,255,2,195.11,0,Lapsed / At risk
+13127,184,1,12.03,0,Lapsed / At risk
+13128,32,7,556.31,2,Potential loyalists
+13129,2,28,4850.6,1,Champions / Loyal
+13130,52,2,211.21,2,Potential loyalists
+13131,1,26,5515.75,1,Champions / Loyal
+13132,79,5,539.42,2,Potential loyalists
+13133,74,3,348.57,2,Potential loyalists
+13134,309,1,92.49,0,Lapsed / At risk
+13135,36,4,395.44,2,Potential loyalists
+13136,338,1,34.3,0,Lapsed / At risk
+13137,42,6,420.07,2,Potential loyalists
+13138,246,2,162.65,0,Lapsed / At risk
+13139,276,2,197.13,0,Lapsed / At risk
+13140,171,2,133.83,0,Lapsed / At risk
+13141,295,1,8.34,0,Lapsed / At risk
+13142,49,4,151.53,2,Potential loyalists
+13143,17,18,5069.57,1,Champions / Loyal
+13144,82,2,213.81,0,Lapsed / At risk
+13145,120,2,414.59,0,Lapsed / At risk
+13146,362,1,255.64,0,Lapsed / At risk
+13147,59,5,290.69,2,Potential loyalists
+13148,175,1,46.56,0,Lapsed / At risk
+13149,63,4,305.25,2,Potential loyalists
+13150,59,5,369.97,2,Potential loyalists
+13151,38,4,489.17,2,Potential loyalists
+13152,176,1,129.41,0,Lapsed / At risk
+13153,226,2,154.98,0,Lapsed / At risk
+13154,9,4,632.75,2,Potential loyalists
+13155,43,5,554.42,2,Potential loyalists
+13156,286,2,43.16,0,Lapsed / At risk
+13157,19,6,579.25,2,Potential loyalists
+13158,220,1,93.64,0,Lapsed / At risk
+13159,17,6,602.41,2,Potential loyalists
+13160,36,17,3246.04,1,Champions / Loyal
+13161,83,5,527.4,2,Potential loyalists
+13162,6,7,745.7,2,Potential loyalists
+13163,46,7,681.39,2,Potential loyalists
+13164,27,2,94.58,2,Potential loyalists
+13165,304,2,283.02,0,Lapsed / At risk
+13166,280,4,272.07,0,Lapsed / At risk
+13167,35,6,712.12,2,Potential loyalists
+13168,30,7,580.52,2,Potential loyalists
+13169,3,27,6814.59,1,Champions / Loyal
+13170,12,7,477.8,2,Potential loyalists
+13171,2,5,274.91,2,Potential loyalists
+13172,203,2,226.69,0,Lapsed / At risk
+13173,36,16,3036.95,1,Champions / Loyal
+13174,228,2,77.05,0,Lapsed / At risk
+13175,69,6,458.43,2,Potential loyalists
+13176,219,2,178.23,0,Lapsed / At risk
+13177,28,6,719.29,2,Potential loyalists
+13178,8,25,4954.78,1,Champions / Loyal
+13179,218,2,223.61,0,Lapsed / At risk
+13180,190,2,290.4,0,Lapsed / At risk
+13181,229,1,171.85,0,Lapsed / At risk
+13182,5,2,138.7,2,Potential loyalists
+13183,290,1,84.46,0,Lapsed / At risk
+13184,293,1,137.43,0,Lapsed / At risk
+13185,189,2,200.21,0,Lapsed / At risk
+13186,48,4,512.25,2,Potential loyalists
+13187,285,2,263.53,0,Lapsed / At risk
+13188,186,2,298.85,0,Lapsed / At risk
+13189,256,1,119.07,0,Lapsed / At risk
+13190,36,7,728.8,2,Potential loyalists
+13191,5,7,591.15,2,Potential loyalists
+13192,200,1,46.52,0,Lapsed / At risk
+13193,6,7,706.14,2,Potential loyalists
+13194,315,2,308.28,0,Lapsed / At risk
+13195,36,5,334.0,2,Potential loyalists
+13196,33,6,550.37,2,Potential loyalists
+13197,218,2,164.05,0,Lapsed / At risk
+13198,30,20,4097.73,1,Champions / Loyal
+13199,6,3,234.93,2,Potential loyalists
+13200,170,2,85.89,0,Lapsed / At risk
+13201,166,2,206.12,0,Lapsed / At risk
+13202,179,2,132.22,0,Lapsed / At risk
+13203,43,4,139.57,2,Potential loyalists
+13204,16,25,5289.32,1,Champions / Loyal
+13205,216,2,95.11,0,Lapsed / At risk
+13206,53,7,803.31,2,Potential loyalists
+13207,12,6,505.53,2,Potential loyalists
+13208,179,4,632.09,2,Potential loyalists
+13209,5,3,347.3,2,Potential loyalists
+13210,171,2,98.06,0,Lapsed / At risk
+13211,252,2,147.29,0,Lapsed / At risk
+13212,233,2,157.73,0,Lapsed / At risk
+13213,94,2,233.8,0,Lapsed / At risk
+13214,125,2,274.49,0,Lapsed / At risk
+13215,221,4,232.34,0,Lapsed / At risk
+13216,75,14,3478.25,1,Champions / Loyal
+13217,78,4,300.25,2,Potential loyalists
+13218,45,2,236.32,2,Potential loyalists
+13219,11,14,3328.47,1,Champions / Loyal
+13220,36,7,609.63,2,Potential loyalists
+13221,354,1,81.27,0,Lapsed / At risk
+13222,48,16,3513.64,1,Champions / Loyal
+13223,68,7,454.25,2,Potential loyalists
+13224,330,2,311.95,0,Lapsed / At risk
+13225,263,1,9.87,0,Lapsed / At risk
+13226,237,1,75.69,0,Lapsed / At risk
+13227,27,3,152.38,2,Potential loyalists
+13228,336,1,291.09,0,Lapsed / At risk
+13229,28,5,638.52,2,Potential loyalists
+13230,27,7,754.83,2,Potential loyalists
+13231,65,4,197.25,2,Potential loyalists
+13232,30,3,528.49,2,Potential loyalists
+13233,8,7,651.78,2,Potential loyalists
+13234,44,7,689.17,2,Potential loyalists
+13235,211,1,132.07,0,Lapsed / At risk
+13236,48,7,618.43,2,Potential loyalists
+13237,71,6,800.98,2,Potential loyalists
+13238,31,26,6360.61,1,Champions / Loyal
+13239,46,4,206.88,2,Potential loyalists
+13240,49,5,317.25,2,Potential loyalists
+13241,19,7,844.96,2,Potential loyalists
+13242,11,2,105.88,2,Potential loyalists
+13243,302,1,4.16,0,Lapsed / At risk
+13244,197,2,168.7,0,Lapsed / At risk
+13245,35,7,541.77,2,Potential loyalists
+13246,178,2,216.89,0,Lapsed / At risk
+13247,231,1,22.6,0,Lapsed / At risk
+13248,261,1,65.39,0,Lapsed / At risk
+13249,297,1,9.61,0,Lapsed / At risk
+13250,171,2,179.62,0,Lapsed / At risk
+13251,303,1,134.34,0,Lapsed / At risk
+13252,170,2,47.79,0,Lapsed / At risk
+13253,16,3,269.34,2,Potential loyalists
+13254,5,27,5669.37,1,Champions / Loyal
+13255,23,11,2760.76,1,Champions / Loyal
+13256,8,5,600.09,2,Potential loyalists
+13257,2,6,703.61,2,Potential loyalists
+13258,45,7,299.85,2,Potential loyalists
+13259,104,2,135.8,0,Lapsed / At risk
+13260,40,6,434.95,2,Potential loyalists
+13261,171,2,376.07,0,Lapsed / At risk
+13262,15,22,4087.01,1,Champions / Loyal
+13263,16,6,605.15,2,Potential loyalists
+13264,327,2,202.59,0,Lapsed / At risk
+13265,289,1,127.94,0,Lapsed / At risk
+13266,274,1,108.15,0,Lapsed / At risk
+13267,192,2,42.72,0,Lapsed / At risk
+13268,355,1,100.64,0,Lapsed / At risk
+13269,44,2,252.65,2,Potential loyalists
+13270,52,3,197.26,2,Potential loyalists
+13271,103,3,360.34,2,Potential loyalists
+13272,326,2,91.47,0,Lapsed / At risk
+13273,326,1,189.28,0,Lapsed / At risk
+13274,24,6,811.88,2,Potential loyalists
+13275,39,6,632.66,2,Potential loyalists
+13276,139,2,157.91,0,Lapsed / At risk
+13277,96,4,853.39,2,Potential loyalists
+13278,18,5,379.33,2,Potential loyalists
+13279,4,23,7041.92,1,Champions / Loyal
+13280,271,1,19.11,0,Lapsed / At risk
+13281,90,2,79.37,0,Lapsed / At risk
+13282,206,2,281.44,0,Lapsed / At risk
+13283,194,1,44.29,0,Lapsed / At risk
+13284,162,2,46.82,0,Lapsed / At risk
+13285,44,5,571.58,2,Potential loyalists
+13286,264,2,129.9,0,Lapsed / At risk
+13287,64,4,368.32,2,Potential loyalists
+13288,314,1,131.77,0,Lapsed / At risk
+13289,38,15,2992.26,1,Champions / Loyal
+13290,285,1,15.48,0,Lapsed / At risk
+13291,193,2,59.11,0,Lapsed / At risk
+13292,24,7,722.85,2,Potential loyalists
+13293,66,6,843.85,2,Potential loyalists
+13294,248,1,88.13,0,Lapsed / At risk
+13295,40,5,299.8,2,Potential loyalists
+13296,92,6,540.24,2,Potential loyalists
+13297,5,4,386.81,2,Potential loyalists
+13298,45,5,629.61,2,Potential loyalists
+13299,229,2,94.24,0,Lapsed / At risk
+13300,248,2,118.14,0,Lapsed / At risk
+13301,39,4,298.9,2,Potential loyalists
+13302,181,1,67.41,0,Lapsed / At risk
+13303,114,2,115.05,0,Lapsed / At risk
+13304,35,23,3333.5,1,Champions / Loyal
+13305,137,4,508.87,2,Potential loyalists
+13306,297,1,2.03,0,Lapsed / At risk
+13307,5,14,4019.3,1,Champions / Loyal
+13308,310,2,130.06,0,Lapsed / At risk
+13309,122,2,210.76,0,Lapsed / At risk
+13310,197,2,148.07,0,Lapsed / At risk
+13311,10,27,6762.46,1,Champions / Loyal
+13312,86,4,544.32,2,Potential loyalists
+13313,216,1,83.24,0,Lapsed / At risk
+13314,49,3,279.93,2,Potential loyalists
+13315,105,3,398.6,2,Potential loyalists
+13316,31,7,615.36,2,Potential loyalists
+13317,267,2,434.31,0,Lapsed / At risk
+13318,20,6,590.27,2,Potential loyalists
+13319,197,2,126.24,0,Lapsed / At risk
+13320,326,2,98.91,0,Lapsed / At risk
+13321,166,2,10.86,0,Lapsed / At risk
+13322,172,2,286.37,0,Lapsed / At risk
+13323,5,5,568.09,2,Potential loyalists
+13324,14,5,286.31,2,Potential loyalists
+13325,335,2,126.28,0,Lapsed / At risk
+13326,63,3,177.18,2,Potential loyalists
+13327,345,1,41.93,0,Lapsed / At risk
+13328,177,1,96.06,0,Lapsed / At risk
+13329,31,20,4924.07,1,Champions / Loyal
+13330,91,3,278.02,2,Potential loyalists
+13331,132,2,74.37,0,Lapsed / At risk
+13332,67,6,506.82,2,Potential loyalists
+13333,23,4,198.48,2,Potential loyalists
+13334,128,4,263.74,2,Potential loyalists
+13335,170,2,105.5,0,Lapsed / At risk
+13336,180,2,196.26,0,Lapsed / At risk
+13337,203,2,289.31,0,Lapsed / At risk
+13338,75,4,214.48,2,Potential loyalists
+13339,66,2,174.78,0,Lapsed / At risk
+13340,68,5,418.33,2,Potential loyalists
+13341,13,21,5031.38,1,Champions / Loyal
+13342,268,2,207.7,0,Lapsed / At risk
+13343,54,6,697.77,2,Potential loyalists
+13344,26,4,429.02,2,Potential loyalists
+13345,317,2,33.92,0,Lapsed / At risk
+13346,18,6,407.25,2,Potential loyalists
+13347,17,19,4293.26,1,Champions / Loyal
+13348,27,3,233.5,2,Potential loyalists
+13349,206,2,63.79,0,Lapsed / At risk
+13350,182,1,95.63,0,Lapsed / At risk
+13351,35,5,256.95,2,Potential loyalists
+13352,310,1,115.18,0,Lapsed / At risk
+13353,252,1,140.81,0,Lapsed / At risk
+13354,343,2,144.76,0,Lapsed / At risk
+13355,73,3,209.58,2,Potential loyalists
+13356,32,29,8300.86,1,Champions / Loyal
+13357,196,2,46.69,0,Lapsed / At risk
+13358,104,2,97.28,0,Lapsed / At risk
+13359,177,2,189.29,0,Lapsed / At risk
+13360,183,1,89.09,0,Lapsed / At risk
+13361,18,17,2999.09,1,Champions / Loyal
+13362,251,1,148.66,0,Lapsed / At risk
+13363,358,1,106.6,0,Lapsed / At risk
+13364,292,2,295.59,0,Lapsed / At risk
+13365,76,5,462.85,2,Potential loyalists
+13366,331,2,334.19,0,Lapsed / At risk
+13367,49,6,552.31,2,Potential loyalists
+13368,209,2,347.09,0,Lapsed / At risk
+13369,234,2,194.97,0,Lapsed / At risk
+13370,261,1,6.96,0,Lapsed / At risk
+13371,44,4,122.89,2,Potential loyalists
+13372,31,21,5081.67,1,Champions / Loyal
+13373,38,7,721.68,2,Potential loyalists
+13374,53,3,440.15,2,Potential loyalists
+13375,50,6,280.68,2,Potential loyalists
+13376,8,7,663.77,2,Potential loyalists
+13377,60,5,715.35,2,Potential loyalists
+13378,212,2,214.71,0,Lapsed / At risk
+13379,290,1,22.32,0,Lapsed / At risk
+13380,66,3,227.52,2,Potential loyalists
+13381,304,1,136.05,0,Lapsed / At risk
+13382,172,2,223.99,0,Lapsed / At risk
+13383,13,6,462.38,2,Potential loyalists
+13384,90,5,577.98,2,Potential loyalists
+13385,190,2,346.83,0,Lapsed / At risk
+13386,260,1,69.73,0,Lapsed / At risk
+13387,222,2,134.04,0,Lapsed / At risk
+13388,251,2,491.65,0,Lapsed / At risk
+13389,324,2,166.52,0,Lapsed / At risk
+13390,10,2,128.23,2,Potential loyalists
+13391,238,2,51.32,0,Lapsed / At risk
+13392,51,7,439.9,2,Potential loyalists
+13393,318,1,41.4,0,Lapsed / At risk
+13394,10,14,2492.27,1,Champions / Loyal
+13395,54,2,214.44,2,Potential loyalists
+13396,230,1,274.77,0,Lapsed / At risk
+13397,64,6,496.01,2,Potential loyalists
+13398,317,1,18.15,0,Lapsed / At risk
+13399,106,5,433.86,2,Potential loyalists
+13400,359,1,174.01,0,Lapsed / At risk
+13401,207,1,146.1,0,Lapsed / At risk
+13402,26,4,201.35,2,Potential loyalists
+13403,202,2,185.92,0,Lapsed / At risk
+13404,67,4,270.06,2,Potential loyalists
+13405,267,1,55.28,0,Lapsed / At risk
+13406,238,2,205.82,0,Lapsed / At risk
+13407,184,2,172.51,0,Lapsed / At risk
+13408,25,10,1980.45,1,Champions / Loyal
+13409,108,3,256.56,0,Lapsed / At risk
+13410,174,1,57.65,0,Lapsed / At risk
+13411,77,4,254.66,2,Potential loyalists
+13412,11,4,394.56,2,Potential loyalists
+13413,44,18,4300.4,1,Champions / Loyal
+13414,75,4,466.0,2,Potential loyalists
+13415,365,1,9.76,0,Lapsed / At risk
+13416,31,17,3354.44,1,Champions / Loyal
+13417,50,7,578.43,2,Potential loyalists
+13418,294,1,63.84,0,Lapsed / At risk
+13419,22,26,6137.09,1,Champions / Loyal
+13420,167,2,70.61,0,Lapsed / At risk
+13421,76,5,287.02,2,Potential loyalists
+13422,295,1,4.88,0,Lapsed / At risk
+13423,223,2,158.85,0,Lapsed / At risk
+13424,349,1,86.33,0,Lapsed / At risk
+13425,45,6,563.15,2,Potential loyalists
+13426,1,7,770.82,1,Champions / Loyal
+13427,225,1,92.61,0,Lapsed / At risk
+13428,50,6,493.14,2,Potential loyalists
+13429,70,2,112.34,0,Lapsed / At risk
+13430,70,10,2495.61,1,Champions / Loyal
+13431,231,2,200.08,0,Lapsed / At risk
+13432,179,1,6.64,0,Lapsed / At risk
+13433,227,2,107.42,0,Lapsed / At risk
+13434,352,1,42.54,0,Lapsed / At risk
+13435,154,3,396.18,0,Lapsed / At risk
+13436,42,2,111.24,2,Potential loyalists
+13437,37,5,566.66,2,Potential loyalists
+13438,291,1,182.33,0,Lapsed / At risk
+13439,37,7,585.37,2,Potential loyalists
+13440,214,2,119.44,0,Lapsed / At risk
+13441,260,1,228.7,0,Lapsed / At risk
+13442,11,3,196.69,2,Potential loyalists
+13443,42,6,527.58,2,Potential loyalists
+13444,1,29,7687.57,1,Champions / Loyal
+13445,228,1,27.36,0,Lapsed / At risk
+13446,245,1,139.64,0,Lapsed / At risk
+13447,284,1,44.86,0,Lapsed / At risk
+13448,79,5,712.26,2,Potential loyalists
+13449,71,5,577.29,2,Potential loyalists
+13450,31,3,448.7,2,Potential loyalists
+13451,43,23,6020.36,1,Champions / Loyal
+13452,3,21,4808.58,1,Champions / Loyal
+13453,4,27,5764.62,1,Champions / Loyal
+13454,217,1,59.69,0,Lapsed / At risk
+13455,4,19,4339.99,1,Champions / Loyal
+13456,2,11,1597.27,1,Champions / Loyal
+13457,249,2,202.01,0,Lapsed / At risk
+13458,40,7,1139.89,2,Potential loyalists
+13459,222,2,60.79,0,Lapsed / At risk
+13460,193,1,148.6,0,Lapsed / At risk
+13461,277,1,93.89,0,Lapsed / At risk
+13462,277,2,187.18,0,Lapsed / At risk
+13463,37,6,513.17,2,Potential loyalists
+13464,266,2,177.29,0,Lapsed / At risk
+13465,192,2,281.15,0,Lapsed / At risk
+13466,288,2,134.68,0,Lapsed / At risk
+13467,58,2,50.18,0,Lapsed / At risk
+13468,90,4,423.04,2,Potential loyalists
+13469,329,1,42.4,0,Lapsed / At risk
+13470,40,6,857.95,2,Potential loyalists
+13471,41,7,686.47,2,Potential loyalists
+13472,36,7,449.73,2,Potential loyalists
+13473,178,2,93.17,0,Lapsed / At risk
+13474,59,5,488.27,2,Potential loyalists
+13475,316,1,293.96,0,Lapsed / At risk
+13476,357,1,45.04,0,Lapsed / At risk
+13477,9,18,4783.39,1,Champions / Loyal
+13478,174,2,102.71,0,Lapsed / At risk
+13479,33,4,355.51,2,Potential loyalists
+13480,68,6,329.26,2,Potential loyalists
+13481,184,2,119.37,0,Lapsed / At risk
+13482,213,1,151.79,0,Lapsed / At risk
+13483,52,7,567.49,2,Potential loyalists
+13484,152,2,118.82,0,Lapsed / At risk
+13485,50,3,172.31,2,Potential loyalists
+13486,48,2,208.91,2,Potential loyalists
+13487,234,2,122.01,0,Lapsed / At risk
+13488,269,1,35.62,0,Lapsed / At risk
+13489,362,1,180.39,0,Lapsed / At risk
+13490,1,29,7369.39,1,Champions / Loyal
+13491,238,2,210.66,0,Lapsed / At risk
+13492,308,1,31.84,0,Lapsed / At risk
+13493,202,1,100.21,0,Lapsed / At risk
+13494,32,19,4348.87,1,Champions / Loyal
+13495,47,7,686.04,2,Potential loyalists
+13496,112,2,127.53,0,Lapsed / At risk
+13497,4,23,4822.85,1,Champions / Loyal
+13498,75,6,383.47,2,Potential loyalists
+13499,86,2,146.06,0,Lapsed / At risk
+13500,180,2,162.29,0,Lapsed / At risk
+13501,22,4,509.03,2,Potential loyalists
+13502,176,2,51.33,0,Lapsed / At risk
+13503,36,7,333.8,2,Potential loyalists
+13504,196,1,91.42,0,Lapsed / At risk
+13505,50,2,185.98,2,Potential loyalists
+13506,91,2,255.26,0,Lapsed / At risk
+13507,182,1,147.72,0,Lapsed / At risk
+13508,294,1,111.64,0,Lapsed / At risk
+13509,63,3,254.03,2,Potential loyalists
+13510,29,6,688.4,2,Potential loyalists
+13511,183,2,262.73,0,Lapsed / At risk
+13512,173,2,157.02,0,Lapsed / At risk
+13513,19,25,4371.14,1,Champions / Loyal
+13514,58,6,330.12,2,Potential loyalists
+13515,27,5,383.84,2,Potential loyalists
+13516,177,1,65.86,0,Lapsed / At risk
+13517,19,6,493.77,2,Potential loyalists
+13518,130,3,314.36,0,Lapsed / At risk
+13519,239,1,121.32,0,Lapsed / At risk
+13520,65,5,292.58,2,Potential loyalists
+13521,32,4,566.18,2,Potential loyalists
+13522,37,4,243.32,2,Potential loyalists
+13523,37,14,3005.44,1,Champions / Loyal
+13524,4,12,2971.74,1,Champions / Loyal
+13525,33,3,89.42,2,Potential loyalists
+13526,229,1,132.08,0,Lapsed / At risk
+13527,352,1,110.75,0,Lapsed / At risk
+13528,45,25,7120.97,1,Champions / Loyal
+13529,89,2,100.58,0,Lapsed / At risk
+13530,23,7,347.71,2,Potential loyalists
+13531,169,2,476.61,0,Lapsed / At risk
+13532,13,6,707.08,2,Potential loyalists
+13533,180,2,235.03,0,Lapsed / At risk
+13534,54,5,565.99,2,Potential loyalists
+13535,209,2,110.42,0,Lapsed / At risk
+13536,11,3,260.99,2,Potential loyalists
+13537,312,1,29.3,0,Lapsed / At risk
+13538,77,4,371.56,2,Potential loyalists
+13539,350,1,53.12,0,Lapsed / At risk
+13540,66,5,442.35,2,Potential loyalists
+13541,243,2,199.89,0,Lapsed / At risk
+13542,257,2,78.72,0,Lapsed / At risk
+13543,234,2,175.06,0,Lapsed / At risk
+13544,24,7,581.88,2,Potential loyalists
+13545,45,5,514.08,2,Potential loyalists
+13546,194,2,190.14,0,Lapsed / At risk
+13547,62,5,641.91,2,Potential loyalists
+13548,32,5,366.02,2,Potential loyalists
+13549,214,2,345.21,0,Lapsed / At risk
+13550,254,1,14.25,0,Lapsed / At risk
+13551,46,7,529.65,2,Potential loyalists
+13552,194,1,55.01,0,Lapsed / At risk
+13553,349,1,92.6,0,Lapsed / At risk
+13554,215,2,164.23,0,Lapsed / At risk
+13555,130,2,299.54,0,Lapsed / At risk
+13556,53,3,188.57,2,Potential loyalists
+13557,195,2,43.38,0,Lapsed / At risk
+13558,71,2,57.92,0,Lapsed / At risk
+13559,49,5,708.78,2,Potential loyalists
+13560,308,1,92.3,0,Lapsed / At risk
+13561,237,1,157.19,0,Lapsed / At risk
+13562,310,1,144.09,0,Lapsed / At risk
+13563,279,1,104.81,0,Lapsed / At risk
+13564,6,7,555.45,2,Potential loyalists
+13565,68,2,231.57,2,Potential loyalists
+13566,54,6,540.62,2,Potential loyalists
+13567,32,4,156.01,2,Potential loyalists
+13568,20,6,843.41,2,Potential loyalists
+13569,203,2,225.51,0,Lapsed / At risk
+13570,33,5,428.53,2,Potential loyalists
+13571,187,2,268.21,0,Lapsed / At risk
+13572,54,6,391.11,2,Potential loyalists
+13573,201,5,584.09,2,Potential loyalists
+13574,5,26,7120.86,1,Champions / Loyal
+13575,326,2,130.77,0,Lapsed / At risk
+13576,176,2,36.84,0,Lapsed / At risk
+13577,63,5,301.77,2,Potential loyalists
+13578,256,4,556.76,0,Lapsed / At risk
+13579,301,1,211.82,0,Lapsed / At risk
+13580,77,2,180.18,0,Lapsed / At risk
+13581,72,14,3197.63,1,Champions / Loyal
+13582,66,4,217.54,2,Potential loyalists
+13583,127,3,314.15,0,Lapsed / At risk
+13584,206,1,157.59,0,Lapsed / At risk
+13585,33,4,461.39,2,Potential loyalists
+13586,8,17,3883.42,1,Champions / Loyal
+13587,26,17,3875.52,1,Champions / Loyal
+13588,6,7,631.97,2,Potential loyalists
+13589,16,23,5911.09,1,Champions / Loyal
+13590,298,1,66.36,0,Lapsed / At risk
+13591,116,7,804.19,2,Potential loyalists
+13592,275,2,139.97,0,Lapsed / At risk
+13593,20,7,780.35,2,Potential loyalists
+13594,46,7,501.98,2,Potential loyalists
+13595,8,28,4790.92,1,Champions / Loyal
+13596,294,1,97.2,0,Lapsed / At risk
+13597,264,1,44.2,0,Lapsed / At risk
+13598,43,17,3307.41,1,Champions / Loyal
+13599,174,3,323.75,0,Lapsed / At risk
+13600,276,1,20.82,0,Lapsed / At risk
+13601,4,2,62.21,2,Potential loyalists
+13602,29,5,541.44,2,Potential loyalists
+13603,65,7,627.1,2,Potential loyalists
+13604,310,1,26.4,0,Lapsed / At risk
+13605,300,2,134.89,0,Lapsed / At risk
+13606,62,4,337.27,2,Potential loyalists
+13607,275,2,154.55,0,Lapsed / At risk
+13608,70,5,269.97,2,Potential loyalists
+13609,51,7,673.82,2,Potential loyalists
+13610,173,2,127.68,0,Lapsed / At risk
+13611,18,6,672.04,2,Potential loyalists
+13612,29,7,680.01,2,Potential loyalists
+13613,23,19,4889.83,1,Champions / Loyal
+13614,78,3,470.04,2,Potential loyalists
+13615,198,1,98.56,0,Lapsed / At risk
+13616,7,21,4178.85,1,Champions / Loyal
+13617,55,5,361.3,2,Potential loyalists
+13618,238,2,261.1,0,Lapsed / At risk
+13619,243,2,150.4,0,Lapsed / At risk
+13620,232,1,248.49,0,Lapsed / At risk
+13621,189,1,227.51,0,Lapsed / At risk
+13622,314,1,19.22,0,Lapsed / At risk
+13623,34,25,6192.29,1,Champions / Loyal
+13624,45,4,392.93,2,Potential loyalists
+13625,277,2,225.53,0,Lapsed / At risk
+13626,23,4,317.64,2,Potential loyalists
+13627,14,26,5662.66,1,Champions / Loyal
+13628,21,7,1018.62,2,Potential loyalists
+13629,38,4,452.03,2,Potential loyalists
+13630,44,7,571.37,2,Potential loyalists
+13631,20,6,563.39,2,Potential loyalists
+13632,196,2,183.94,0,Lapsed / At risk
+13633,278,1,58.26,0,Lapsed / At risk
+13634,126,2,225.06,0,Lapsed / At risk
+13635,336,1,68.36,0,Lapsed / At risk
+13636,14,15,3670.41,1,Champions / Loyal
+13637,359,1,78.68,0,Lapsed / At risk
+13638,181,2,361.14,0,Lapsed / At risk
+13639,17,24,4918.53,1,Champions / Loyal
+13640,234,2,211.75,0,Lapsed / At risk
+13641,326,2,93.69,0,Lapsed / At risk
+13642,347,1,109.99,0,Lapsed / At risk
+13643,170,2,255.63,0,Lapsed / At risk
+13644,92,4,280.84,2,Potential loyalists
+13645,10,17,2949.79,1,Champions / Loyal
+13646,175,2,89.34,0,Lapsed / At risk
+13647,282,1,164.03,0,Lapsed / At risk
+13648,263,1,40.06,0,Lapsed / At risk
+13649,16,4,322.36,2,Potential loyalists
+13650,36,4,168.6,2,Potential loyalists
+13651,44,6,421.66,2,Potential loyalists
+13652,275,1,5.88,0,Lapsed / At risk
+13653,29,29,6821.67,1,Champions / Loyal
+13654,272,1,76.54,0,Lapsed / At risk
+13655,324,1,108.32,0,Lapsed / At risk
+13656,56,4,315.65,2,Potential loyalists
+13657,51,2,200.81,2,Potential loyalists
+13658,18,4,204.61,2,Potential loyalists
+13659,344,1,194.3,0,Lapsed / At risk
+13660,333,2,326.36,0,Lapsed / At risk
+13661,46,3,252.58,2,Potential loyalists
+13662,41,4,526.51,2,Potential loyalists
+13663,20,3,248.48,2,Potential loyalists
+13664,34,4,526.97,2,Potential loyalists
+13665,224,1,195.69,0,Lapsed / At risk
+13666,190,1,47.4,0,Lapsed / At risk
+13667,44,7,735.18,2,Potential loyalists
+13668,184,2,144.65,0,Lapsed / At risk
+13669,65,4,394.63,2,Potential loyalists
+13670,251,1,213.1,0,Lapsed / At risk
+13671,26,7,721.67,2,Potential loyalists
+13672,206,2,262.77,0,Lapsed / At risk
+13673,319,1,39.07,0,Lapsed / At risk
+13674,66,7,695.66,2,Potential loyalists
+13675,309,1,25.21,0,Lapsed / At risk
+13676,256,2,21.58,0,Lapsed / At risk
+13677,31,6,645.17,2,Potential loyalists
+13678,10,15,2629.05,1,Champions / Loyal
+13679,246,2,205.09,0,Lapsed / At risk
+13680,114,3,315.08,2,Potential loyalists
+13681,52,15,2974.92,1,Champions / Loyal
+13682,43,6,542.03,2,Potential loyalists
+13683,242,2,178.06,0,Lapsed / At risk
+13684,47,2,173.8,2,Potential loyalists
+13685,41,5,369.32,2,Potential loyalists
+13686,307,1,15.08,0,Lapsed / At risk
+13687,22,7,752.03,2,Potential loyalists
+13688,304,1,61.85,0,Lapsed / At risk
+13689,13,4,567.16,2,Potential loyalists
+13690,250,2,196.71,0,Lapsed / At risk
+13691,282,1,38.07,0,Lapsed / At risk
+13692,1,18,4511.75,1,Champions / Loyal
+13693,226,1,63.78,0,Lapsed / At risk
+13694,19,2,227.19,2,Potential loyalists
+13695,27,11,2280.88,1,Champions / Loyal
+13696,72,7,629.54,2,Potential loyalists
+13697,169,2,111.92,0,Lapsed / At risk
+13698,21,12,2623.56,1,Champions / Loyal
+13699,61,4,262.61,2,Potential loyalists
+13700,31,23,5143.88,1,Champions / Loyal
+13701,53,6,789.86,2,Potential loyalists
+13702,70,5,439.8,2,Potential loyalists
+13703,30,4,453.53,2,Potential loyalists
+13704,52,6,663.82,2,Potential loyalists
+13705,39,20,6066.91,1,Champions / Loyal
+13706,306,1,47.74,0,Lapsed / At risk
+13707,81,4,336.71,2,Potential loyalists
+13708,208,2,310.44,0,Lapsed / At risk
+13709,32,10,2208.84,1,Champions / Loyal
+13710,6,26,5789.56,1,Champions / Loyal
+13711,111,3,360.76,2,Potential loyalists
+13712,57,3,206.8,2,Potential loyalists
+13713,90,6,584.41,2,Potential loyalists
+13714,288,1,29.04,0,Lapsed / At risk
+13715,75,2,269.16,2,Potential loyalists
+13716,76,4,227.94,2,Potential loyalists
+13717,47,4,315.49,2,Potential loyalists
+13718,8,10,1650.59,1,Champions / Loyal
+13719,195,3,231.14,0,Lapsed / At risk
+13720,55,7,1007.77,2,Potential loyalists
+13721,24,5,398.6,2,Potential loyalists
+13722,26,18,3585.41,1,Champions / Loyal
+13723,237,2,199.04,0,Lapsed / At risk
+13724,259,1,111.83,0,Lapsed / At risk
+13725,8,12,2817.16,1,Champions / Loyal
+13726,176,1,109.22,0,Lapsed / At risk
+13727,317,2,262.02,0,Lapsed / At risk
+13728,43,5,204.96,2,Potential loyalists
+13729,183,2,235.96,0,Lapsed / At risk
+13730,172,2,131.66,0,Lapsed / At risk
+13731,219,1,198.45,0,Lapsed / At risk
+13732,307,1,233.6,0,Lapsed / At risk
+13733,36,11,2554.48,1,Champions / Loyal
+13734,55,3,191.82,2,Potential loyalists
+13735,63,2,208.65,2,Potential loyalists
+13736,2,22,3776.05,1,Champions / Loyal
+13737,152,2,143.71,0,Lapsed / At risk
+13738,336,2,145.03,0,Lapsed / At risk
+13739,6,28,5681.31,1,Champions / Loyal
+13740,38,3,296.79,2,Potential loyalists
+13741,303,1,131.37,0,Lapsed / At risk
+13742,1,5,331.22,2,Potential loyalists
+13743,21,7,420.33,2,Potential loyalists
+13744,178,2,216.82,0,Lapsed / At risk
+13745,23,7,712.73,2,Potential loyalists
+13746,30,14,3083.52,1,Champions / Loyal
+13747,17,19,4490.23,1,Champions / Loyal
+13748,177,1,143.31,0,Lapsed / At risk
+13749,8,5,508.03,2,Potential loyalists
+13750,48,6,595.37,2,Potential loyalists
+13751,19,24,5363.67,1,Champions / Loyal
+13752,85,5,549.33,2,Potential loyalists
+13753,327,1,38.77,0,Lapsed / At risk
+13754,18,6,326.25,2,Potential loyalists
+13755,306,1,221.7,0,Lapsed / At risk
+13756,9,7,537.61,2,Potential loyalists
+13757,80,2,184.66,0,Lapsed / At risk
+13758,185,2,326.36,0,Lapsed / At risk
+13759,9,7,828.96,2,Potential loyalists
+13760,162,2,113.3,0,Lapsed / At risk
+13761,311,1,27.37,0,Lapsed / At risk
+13762,62,3,113.37,2,Potential loyalists
+13763,31,4,185.62,2,Potential loyalists
+13764,203,2,120.69,0,Lapsed / At risk
+13765,21,3,192.0,2,Potential loyalists
+13766,61,4,708.9,2,Potential loyalists
+13767,83,15,4022.31,1,Champions / Loyal
+13768,138,6,789.42,2,Potential loyalists
+13769,81,5,397.16,2,Potential loyalists
+13770,170,1,50.4,0,Lapsed / At risk
+13771,84,3,168.19,2,Potential loyalists
+13772,198,1,35.67,0,Lapsed / At risk
+13773,58,3,178.74,2,Potential loyalists
+13774,170,2,183.36,0,Lapsed / At risk
+13775,43,6,560.48,2,Potential loyalists
+13776,187,1,138.14,0,Lapsed / At risk
+13777,107,7,573.29,2,Potential loyalists
+13778,17,7,547.17,2,Potential loyalists
+13779,230,1,171.64,0,Lapsed / At risk
+13780,81,5,650.34,2,Potential loyalists
+13781,25,6,723.39,2,Potential loyalists
+13782,217,1,43.61,0,Lapsed / At risk
+13783,72,3,119.25,0,Lapsed / At risk
+13784,33,26,5024.3,1,Champions / Loyal
+13785,35,7,601.63,2,Potential loyalists
+13786,25,23,5440.2,1,Champions / Loyal
+13787,74,4,307.6,2,Potential loyalists
+13788,253,1,118.49,0,Lapsed / At risk
+13789,3,19,5399.68,1,Champions / Loyal
+13790,237,1,59.06,0,Lapsed / At risk
+13791,263,1,136.81,0,Lapsed / At risk
+13792,174,1,196.29,0,Lapsed / At risk
+13793,186,2,78.92,0,Lapsed / At risk
+13794,307,2,19.51,0,Lapsed / At risk
+13795,294,1,55.64,0,Lapsed / At risk
+13796,16,3,219.69,2,Potential loyalists
+13797,149,2,189.31,0,Lapsed / At risk
+13798,45,7,531.1,2,Potential loyalists
+13799,32,3,149.76,2,Potential loyalists
+13800,88,2,189.06,0,Lapsed / At risk
+13801,219,1,27.78,0,Lapsed / At risk
+13802,47,12,2668.38,1,Champions / Loyal
+13803,268,1,89.72,0,Lapsed / At risk
+13804,73,4,395.25,2,Potential loyalists
+13805,35,20,4418.5,1,Champions / Loyal
+13806,40,26,7092.77,1,Champions / Loyal
+13807,44,2,64.26,0,Lapsed / At risk
+13808,35,5,357.99,2,Potential loyalists
+13809,30,22,5580.83,1,Champions / Loyal
+13810,95,3,101.95,0,Lapsed / At risk
+13811,52,4,527.6,2,Potential loyalists
+13812,31,2,365.54,2,Potential loyalists
+13813,11,6,667.02,2,Potential loyalists
+13814,133,2,100.07,0,Lapsed / At risk
+13815,36,7,819.1,2,Potential loyalists
+13816,44,10,2106.25,1,Champions / Loyal
+13817,17,14,2600.27,1,Champions / Loyal
+13818,47,2,148.64,2,Potential loyalists
+13819,200,1,101.66,0,Lapsed / At risk
+13820,300,1,39.98,0,Lapsed / At risk
+13821,189,2,138.79,0,Lapsed / At risk
+13822,42,4,266.82,2,Potential loyalists
+13823,2,5,423.83,2,Potential loyalists
+13824,38,6,533.5,2,Potential loyalists
+13825,318,1,54.65,0,Lapsed / At risk
+13826,276,2,219.55,0,Lapsed / At risk
+13827,273,1,121.28,0,Lapsed / At risk
+13828,241,1,107.76,0,Lapsed / At risk
+13829,56,6,452.02,2,Potential loyalists
+13830,346,1,4.02,0,Lapsed / At risk
+13831,203,1,163.29,0,Lapsed / At risk
+13832,213,2,347.16,0,Lapsed / At risk
+13833,168,2,55.88,0,Lapsed / At risk
+13834,3,27,6741.71,1,Champions / Loyal
+13835,187,2,238.96,0,Lapsed / At risk
+13836,282,1,149.12,0,Lapsed / At risk
+13837,14,19,4094.91,1,Champions / Loyal
+13838,249,2,158.67,0,Lapsed / At risk
+13839,31,19,5413.21,1,Champions / Loyal
+13840,181,2,201.17,0,Lapsed / At risk
+13841,216,1,126.13,0,Lapsed / At risk
+13842,185,2,110.31,0,Lapsed / At risk
+13843,192,1,86.54,0,Lapsed / At risk
+13844,12,27,6159.58,1,Champions / Loyal
+13845,9,6,431.66,2,Potential loyalists
+13846,32,6,715.04,2,Potential loyalists
+13847,49,10,2145.81,1,Champions / Loyal
+13848,32,4,316.19,2,Potential loyalists
+13849,175,3,181.42,0,Lapsed / At risk
+13850,142,6,474.17,2,Potential loyalists
+13851,48,5,328.82,2,Potential loyalists
+13852,210,2,307.2,0,Lapsed / At risk
+13853,33,5,346.88,2,Potential loyalists
+13854,347,1,50.94,0,Lapsed / At risk
+13855,48,3,390.14,2,Potential loyalists
+13856,76,3,191.88,2,Potential loyalists
+13857,63,3,113.46,2,Potential loyalists
+13858,86,5,370.99,2,Potential loyalists
+13859,60,6,388.68,2,Potential loyalists
+13860,43,5,272.77,2,Potential loyalists
+13861,66,6,294.69,2,Potential loyalists
+13862,80,5,391.77,2,Potential loyalists
+13863,30,4,476.8,2,Potential loyalists
+13864,35,4,454.04,2,Potential loyalists
+13865,227,2,185.88,0,Lapsed / At risk
+13866,79,7,676.36,2,Potential loyalists
+13867,302,2,46.91,0,Lapsed / At risk
+13868,332,1,59.4,0,Lapsed / At risk
+13869,167,2,245.01,0,Lapsed / At risk
+13870,215,2,208.92,0,Lapsed / At risk
+13871,33,25,5313.18,1,Champions / Loyal
+13872,27,5,266.97,2,Potential loyalists
+13873,74,4,264.42,2,Potential loyalists
+13874,322,2,96.2,0,Lapsed / At risk
+13875,60,6,719.86,2,Potential loyalists
+13876,158,2,254.1,0,Lapsed / At risk
+13877,265,1,29.11,0,Lapsed / At risk
+13878,6,29,7861.44,1,Champions / Loyal
+13879,31,6,506.28,2,Potential loyalists
+13880,321,1,179.81,0,Lapsed / At risk
+13881,35,23,3352.06,1,Champions / Loyal
+13882,158,3,221.83,0,Lapsed / At risk
+13883,222,1,37.57,0,Lapsed / At risk
+13884,59,15,3385.51,1,Champions / Loyal
+13885,91,2,190.55,0,Lapsed / At risk
+13886,75,3,356.96,2,Potential loyalists
+13887,183,1,33.4,0,Lapsed / At risk
+13888,43,13,2087.98,1,Champions / Loyal
+13889,196,2,27.28,0,Lapsed / At risk
+13890,318,1,130.95,0,Lapsed / At risk
+13891,80,2,163.11,0,Lapsed / At risk
+13892,4,6,766.29,2,Potential loyalists
+13893,51,3,342.13,2,Potential loyalists
+13894,212,1,81.43,0,Lapsed / At risk
+13895,81,4,331.03,2,Potential loyalists
+13896,49,7,587.08,2,Potential loyalists
+13897,2,13,3181.91,1,Champions / Loyal
+13898,186,2,276.61,0,Lapsed / At risk
+13899,206,2,345.62,0,Lapsed / At risk
+13900,219,1,177.21,0,Lapsed / At risk
+13901,44,3,201.06,2,Potential loyalists
+13902,355,1,38.22,0,Lapsed / At risk
+13903,7,19,4250.9,1,Champions / Loyal
+13904,5,22,5135.25,1,Champions / Loyal
+13905,169,2,261.2,0,Lapsed / At risk
+13906,258,1,151.69,0,Lapsed / At risk
+13907,72,6,666.27,2,Potential loyalists
+13908,76,4,458.13,2,Potential loyalists
+13909,4,6,387.07,2,Potential loyalists
+13910,118,2,118.42,0,Lapsed / At risk
+13911,46,2,73.57,0,Lapsed / At risk
+13912,194,1,91.9,0,Lapsed / At risk
+13913,16,6,414.8,2,Potential loyalists
+13914,330,2,179.78,0,Lapsed / At risk
+13915,13,23,4538.75,1,Champions / Loyal
+13916,35,22,6108.16,1,Champions / Loyal
+13917,187,1,181.21,0,Lapsed / At risk
+13918,32,3,411.95,2,Potential loyalists
+13919,306,2,271.4,0,Lapsed / At risk
+13920,41,11,1370.29,1,Champions / Loyal
+13921,248,2,114.41,0,Lapsed / At risk
+13922,226,1,125.37,0,Lapsed / At risk
+13923,253,1,127.64,0,Lapsed / At risk
+13924,5,25,5096.89,1,Champions / Loyal
+13925,37,7,1015.04,2,Potential loyalists
+13926,44,6,486.93,2,Potential loyalists
+13927,31,4,379.26,2,Potential loyalists
+13928,34,6,611.82,2,Potential loyalists
+13929,2,23,5041.2,1,Champions / Loyal
+13930,65,5,447.16,2,Potential loyalists
+13931,196,2,149.91,0,Lapsed / At risk
+13932,11,7,512.26,2,Potential loyalists
+13933,30,6,532.08,2,Potential loyalists
+13934,128,2,207.06,0,Lapsed / At risk
+13935,289,1,95.16,0,Lapsed / At risk
+13936,55,7,630.95,2,Potential loyalists
+13937,334,2,19.28,0,Lapsed / At risk
+13938,35,5,316.51,2,Potential loyalists
+13939,191,2,193.91,0,Lapsed / At risk
+13940,45,3,232.37,2,Potential loyalists
+13941,63,5,281.81,2,Potential loyalists
+13942,233,2,25.59,0,Lapsed / At risk
+13943,34,2,439.27,2,Potential loyalists
+13944,249,2,61.45,0,Lapsed / At risk
+13945,340,1,21.36,0,Lapsed / At risk
+13946,4,10,1651.17,1,Champions / Loyal
+13947,81,5,601.41,2,Potential loyalists
+13948,184,1,80.51,0,Lapsed / At risk
+13949,193,2,222.88,0,Lapsed / At risk
+13950,222,2,257.32,0,Lapsed / At risk
+13951,3,21,5266.41,1,Champions / Loyal
+13952,69,4,618.68,2,Potential loyalists
+13953,20,22,4326.64,1,Champions / Loyal
+13954,210,1,53.38,0,Lapsed / At risk
+13955,70,5,658.19,2,Potential loyalists
+13956,262,2,149.26,0,Lapsed / At risk
+13957,313,2,39.1,0,Lapsed / At risk
+13958,203,2,168.38,0,Lapsed / At risk
+13959,240,2,158.68,0,Lapsed / At risk
+13960,203,2,55.73,0,Lapsed / At risk
+13961,267,2,153.22,0,Lapsed / At risk
+13962,182,2,131.04,0,Lapsed / At risk
+13963,42,22,4195.58,1,Champions / Loyal
+13964,31,3,244.42,2,Potential loyalists
+13965,4,6,830.96,2,Potential loyalists
+13966,255,2,31.56,0,Lapsed / At risk
+13967,214,2,148.61,0,Lapsed / At risk
+13968,48,5,318.83,2,Potential loyalists
+13969,42,7,827.71,2,Potential loyalists
+13970,43,7,484.61,2,Potential loyalists
+13971,278,2,93.12,0,Lapsed / At risk
+13972,3,3,89.14,2,Potential loyalists
+13973,9,11,1997.41,1,Champions / Loyal
+13974,315,2,140.64,0,Lapsed / At risk
+13975,269,1,69.6,0,Lapsed / At risk
+13976,49,7,824.53,2,Potential loyalists
+13977,153,2,113.87,0,Lapsed / At risk
+13978,299,2,244.52,0,Lapsed / At risk
+13979,340,2,110.86,0,Lapsed / At risk
+13980,341,1,17.08,0,Lapsed / At risk
+13981,86,4,328.68,2,Potential loyalists
+13982,37,5,405.32,2,Potential loyalists
+13983,2,19,4126.21,1,Champions / Loyal
+13984,317,2,117.14,0,Lapsed / At risk
+13985,28,16,4071.64,1,Champions / Loyal
+13986,2,17,3821.79,1,Champions / Loyal
+13987,279,1,18.18,0,Lapsed / At risk
+13988,358,1,56.92,0,Lapsed / At risk
+13989,250,1,247.17,0,Lapsed / At risk
+13990,70,4,621.39,2,Potential loyalists
+13991,20,7,779.82,2,Potential loyalists
+13992,77,2,221.82,0,Lapsed / At risk
+13993,56,3,316.56,2,Potential loyalists
+13994,14,5,256.84,2,Potential loyalists
+13995,148,3,223.08,0,Lapsed / At risk
+13996,48,7,772.46,2,Potential loyalists
+13997,337,1,116.3,0,Lapsed / At risk
+13998,342,2,154.38,0,Lapsed / At risk
+13999,12,28,7613.04,1,Champions / Loyal
+14000,80,2,176.44,0,Lapsed / At risk
+14001,32,5,487.26,2,Potential loyalists
+14002,15,7,649.02,2,Potential loyalists
+14003,4,7,828.49,2,Potential loyalists
+14004,4,5,326.6,2,Potential loyalists
+14005,258,1,9.7,0,Lapsed / At risk
+14006,47,6,691.9,2,Potential loyalists
+14007,353,1,23.2,0,Lapsed / At risk
+14008,27,16,2862.03,1,Champions / Loyal
+14009,15,28,6143.96,1,Champions / Loyal
+14010,29,6,501.54,2,Potential loyalists
+14011,3,27,5701.5,1,Champions / Loyal
+14012,45,7,658.04,2,Potential loyalists
+14013,173,2,239.55,0,Lapsed / At risk
+14014,3,6,672.64,2,Potential loyalists
+14015,47,3,540.98,2,Potential loyalists
+14016,66,5,144.23,2,Potential loyalists
+14017,49,6,616.49,2,Potential loyalists
+14018,31,4,337.17,2,Potential loyalists
+14019,62,6,563.46,2,Potential loyalists
+14020,233,1,19.68,0,Lapsed / At risk
+14021,22,13,3100.57,1,Champions / Loyal
+14022,41,3,348.3,2,Potential loyalists
+14023,281,1,151.24,0,Lapsed / At risk
+14024,277,2,206.33,0,Lapsed / At risk
+14025,15,3,109.41,2,Potential loyalists
+14026,282,2,217.2,0,Lapsed / At risk
+14027,15,20,4518.35,1,Champions / Loyal
+14028,7,3,346.6,2,Potential loyalists
+14029,42,12,2111.36,1,Champions / Loyal
+14030,251,2,198.41,0,Lapsed / At risk
+14031,39,2,227.7,2,Potential loyalists
+14032,247,2,269.74,0,Lapsed / At risk
+14033,23,13,2928.6,1,Champions / Loyal
+14034,275,2,99.47,0,Lapsed / At risk
+14035,213,2,408.87,0,Lapsed / At risk
+14036,47,12,2514.23,1,Champions / Loyal
+14037,29,14,4120.18,1,Champions / Loyal
+14038,44,13,2355.53,1,Champions / Loyal
+14039,256,1,178.72,0,Lapsed / At risk
+14040,9,5,826.96,2,Potential loyalists
+14041,88,2,212.78,0,Lapsed / At risk
+14042,59,4,391.7,2,Potential loyalists
+14043,241,1,226.24,0,Lapsed / At risk
+14044,52,6,196.99,2,Potential loyalists
+14045,35,5,356.4,2,Potential loyalists
+14046,285,2,111.03,0,Lapsed / At risk
+14047,6,6,605.68,2,Potential loyalists
+14048,269,1,167.59,0,Lapsed / At risk
+14049,26,15,3370.72,1,Champions / Loyal
+14050,22,6,527.58,2,Potential loyalists
+14051,197,1,31.54,0,Lapsed / At risk
+14052,217,2,260.64,0,Lapsed / At risk
+14053,190,1,77.9,0,Lapsed / At risk
+14054,27,6,684.08,2,Potential loyalists
+14055,90,2,114.08,0,Lapsed / At risk
+14056,86,2,184.92,0,Lapsed / At risk
+14057,44,7,578.11,2,Potential loyalists
+14058,59,6,213.7,2,Potential loyalists
+14059,45,6,419.27,2,Potential loyalists
+14060,4,5,481.8,2,Potential loyalists
+14061,28,4,438.25,2,Potential loyalists
+14062,18,2,187.25,2,Potential loyalists
+14063,50,10,2110.51,1,Champions / Loyal
+14064,245,2,240.33,0,Lapsed / At risk
+14065,221,2,418.74,0,Lapsed / At risk
+14066,11,27,6135.61,1,Champions / Loyal
+14067,191,2,185.25,0,Lapsed / At risk
+14068,307,1,24.3,0,Lapsed / At risk
+14069,48,7,504.57,2,Potential loyalists
+14070,13,5,625.61,2,Potential loyalists
+14071,17,21,5058.65,1,Champions / Loyal
+14072,1,26,5783.92,1,Champions / Loyal
+14073,358,1,58.1,0,Lapsed / At risk
+14074,237,2,269.76,0,Lapsed / At risk
+14075,14,17,4201.97,1,Champions / Loyal
+14076,337,1,157.83,0,Lapsed / At risk
+14077,20,17,3746.31,1,Champions / Loyal
+14078,79,7,375.64,2,Potential loyalists
+14079,288,2,115.72,0,Lapsed / At risk
+14080,9,6,934.0,2,Potential loyalists
+14081,3,15,3803.77,1,Champions / Loyal
+14082,3,7,590.83,2,Potential loyalists
+14083,232,2,377.17,0,Lapsed / At risk
+14084,32,3,222.09,2,Potential loyalists
+14085,224,3,53.72,0,Lapsed / At risk
+14086,14,22,4277.65,1,Champions / Loyal
+14087,32,4,173.21,2,Potential loyalists
+14088,151,3,304.73,0,Lapsed / At risk
+14089,302,1,56.51,0,Lapsed / At risk
+14090,308,1,139.31,0,Lapsed / At risk
+14091,199,1,88.55,0,Lapsed / At risk
+14092,181,2,104.04,0,Lapsed / At risk
+14093,59,7,714.85,2,Potential loyalists
+14094,26,4,235.48,2,Potential loyalists
+14095,68,4,266.57,2,Potential loyalists
+14096,89,2,239.14,0,Lapsed / At risk
+14097,289,1,137.5,0,Lapsed / At risk
+14098,361,1,187.36,0,Lapsed / At risk
+14099,215,2,101.88,0,Lapsed / At risk
+14100,16,5,355.01,2,Potential loyalists
+14101,17,4,373.4,2,Potential loyalists
+14102,36,2,140.94,2,Potential loyalists
+14103,8,12,3160.83,1,Champions / Loyal
+14104,46,2,197.92,2,Potential loyalists
+14105,200,2,278.58,0,Lapsed / At risk
+14106,12,24,4585.07,1,Champions / Loyal
+14107,174,1,111.62,0,Lapsed / At risk
+14108,21,11,2750.93,1,Champions / Loyal
+14109,16,7,839.96,2,Potential loyalists
+14110,228,2,77.78,0,Lapsed / At risk
+14111,16,16,2881.25,1,Champions / Loyal
+14112,180,2,334.58,0,Lapsed / At risk
+14113,191,2,79.32,0,Lapsed / At risk
+14114,31,16,3034.44,1,Champions / Loyal
+14115,208,2,198.47,0,Lapsed / At risk
+14116,248,2,198.67,0,Lapsed / At risk
+14117,250,1,7.9,0,Lapsed / At risk
+14118,344,1,3.28,0,Lapsed / At risk
+14119,191,2,74.8,0,Lapsed / At risk
+14120,37,6,610.86,2,Potential loyalists
+14121,49,6,593.52,2,Potential loyalists
+14122,243,2,66.65,0,Lapsed / At risk
+14123,314,1,85.58,0,Lapsed / At risk
+14124,95,7,780.02,2,Potential loyalists
+14125,277,1,13.88,0,Lapsed / At risk
+14126,45,4,343.3,2,Potential loyalists
+14127,204,2,199.53,0,Lapsed / At risk
+14128,342,1,118.85,0,Lapsed / At risk
+14129,7,3,463.16,2,Potential loyalists
+14130,89,4,526.72,2,Potential loyalists
+14131,12,7,409.89,2,Potential loyalists
+14132,63,2,106.7,0,Lapsed / At risk
+14133,163,3,288.46,0,Lapsed / At risk
+14134,22,23,5003.22,1,Champions / Loyal
+14135,19,7,421.04,2,Potential loyalists
+14136,190,2,199.76,0,Lapsed / At risk
+14137,138,2,152.3,0,Lapsed / At risk
+14138,239,1,138.73,0,Lapsed / At risk
+14139,280,1,31.56,0,Lapsed / At risk
+14140,233,2,322.22,0,Lapsed / At risk
+14141,196,2,102.31,0,Lapsed / At risk
+14142,191,2,263.02,0,Lapsed / At risk
+14143,40,6,763.18,2,Potential loyalists
+14144,300,2,185.01,0,Lapsed / At risk
+14145,5,26,7339.88,1,Champions / Loyal
+14146,46,7,539.76,2,Potential loyalists
+14147,194,2,203.21,0,Lapsed / At risk
+14148,317,1,117.96,0,Lapsed / At risk
+14149,322,1,105.44,0,Lapsed / At risk
+14150,3,20,4090.04,1,Champions / Loyal
+14151,2,2,186.03,2,Potential loyalists
+14152,35,6,327.13,2,Potential loyalists
+14153,180,1,68.78,0,Lapsed / At risk
+14154,179,2,97.25,0,Lapsed / At risk
+14155,34,3,270.06,2,Potential loyalists
+14156,50,3,392.4,2,Potential loyalists
+14157,258,2,79.64,0,Lapsed / At risk
+14158,34,4,320.29,2,Potential loyalists
+14159,250,2,48.37,0,Lapsed / At risk
+14160,166,2,405.47,0,Lapsed / At risk
+14161,30,7,892.59,2,Potential loyalists
+14162,70,4,327.27,2,Potential loyalists
+14163,17,28,6132.11,1,Champions / Loyal
+14164,9,18,3280.63,1,Champions / Loyal
+14165,34,6,571.01,2,Potential loyalists
+14166,168,2,97.01,0,Lapsed / At risk
+14167,282,1,17.32,0,Lapsed / At risk
+14168,58,3,222.42,2,Potential loyalists
+14169,70,4,205.22,2,Potential loyalists
+14170,57,11,2427.08,1,Champions / Loyal
+14171,82,2,80.56,0,Lapsed / At risk
+14172,247,2,312.95,0,Lapsed / At risk
+14173,51,2,259.13,2,Potential loyalists
+14174,286,1,126.52,0,Lapsed / At risk
+14175,219,1,7.76,0,Lapsed / At risk
+14176,33,17,4118.96,1,Champions / Loyal
+14177,261,1,106.18,0,Lapsed / At risk
+14178,250,2,54.81,0,Lapsed / At risk
+14179,25,6,521.34,2,Potential loyalists
+14180,8,23,4369.9,1,Champions / Loyal
+14181,365,1,142.28,0,Lapsed / At risk
+14182,245,2,280.96,0,Lapsed / At risk
+14183,59,5,421.54,2,Potential loyalists
+14184,87,7,591.52,2,Potential loyalists
+14185,90,2,29.26,0,Lapsed / At risk
+14186,208,1,98.16,0,Lapsed / At risk
+14187,76,7,692.59,2,Potential loyalists
+14188,20,13,3686.28,1,Champions / Loyal
+14189,215,2,84.74,0,Lapsed / At risk
+14190,167,2,279.8,0,Lapsed / At risk
+14191,206,1,78.9,0,Lapsed / At risk
+14192,41,4,625.54,2,Potential loyalists
+14193,17,18,3979.87,1,Champions / Loyal
+14194,278,2,58.93,0,Lapsed / At risk
+14195,295,2,155.84,0,Lapsed / At risk
+14196,59,6,519.67,2,Potential loyalists
+14197,167,2,348.13,0,Lapsed / At risk
+14198,196,3,290.53,0,Lapsed / At risk
+14199,46,2,189.92,2,Potential loyalists
+14200,36,12,2199.37,1,Champions / Loyal
+14201,4,15,2470.6,1,Champions / Loyal
+14202,34,6,565.57,2,Potential loyalists
+14203,326,1,152.51,0,Lapsed / At risk
+14204,55,12,2069.3,1,Champions / Loyal
+14205,137,2,429.18,0,Lapsed / At risk
+14206,79,2,86.62,0,Lapsed / At risk
+14207,85,2,184.02,0,Lapsed / At risk
+14208,44,7,858.41,2,Potential loyalists
+14209,81,2,219.83,0,Lapsed / At risk
+14210,32,3,172.28,2,Potential loyalists
+14211,242,1,110.16,0,Lapsed / At risk
+14212,317,1,50.33,0,Lapsed / At risk
+14213,45,2,135.99,2,Potential loyalists
+14214,278,1,64.23,0,Lapsed / At risk
+14215,207,2,109.9,0,Lapsed / At risk
+14216,288,1,9.16,0,Lapsed / At risk
+14217,167,2,60.1,0,Lapsed / At risk
+14218,194,2,202.86,0,Lapsed / At risk
+14219,257,1,49.52,0,Lapsed / At risk
+14220,220,1,285.9,0,Lapsed / At risk
+14221,1,10,1419.04,1,Champions / Loyal
+14222,273,1,3.8,0,Lapsed / At risk
+14223,49,3,189.59,2,Potential loyalists
+14224,291,2,154.22,0,Lapsed / At risk
+14225,63,7,373.86,2,Potential loyalists
+14226,20,26,5723.64,1,Champions / Loyal
+14227,81,7,658.83,2,Potential loyalists
+14228,44,7,738.35,2,Potential loyalists
+14229,62,7,705.94,2,Potential loyalists
+14230,137,2,154.32,0,Lapsed / At risk
+14231,27,4,545.71,2,Potential loyalists
+14232,47,2,24.18,0,Lapsed / At risk
+14233,22,6,478.88,2,Potential loyalists
+14234,181,1,55.2,0,Lapsed / At risk
+14235,25,6,579.18,2,Potential loyalists
+14236,53,7,437.43,2,Potential loyalists
+14237,38,3,230.83,2,Potential loyalists
+14238,53,5,325.34,2,Potential loyalists
+14239,50,4,544.68,2,Potential loyalists
+14240,364,1,135.44,0,Lapsed / At risk
+14241,185,1,188.44,0,Lapsed / At risk
+14242,81,5,730.29,2,Potential loyalists
+14243,269,1,63.04,0,Lapsed / At risk
+14244,26,18,3422.57,1,Champions / Loyal
+14245,153,4,371.81,2,Potential loyalists
+14246,4,6,750.32,2,Potential loyalists
+14247,14,19,4958.14,1,Champions / Loyal
+14248,202,2,103.87,0,Lapsed / At risk
+14249,331,1,0.81,0,Lapsed / At risk
+14250,259,2,420.41,0,Lapsed / At risk
+14251,69,4,268.04,2,Potential loyalists
+14252,170,1,98.91,0,Lapsed / At risk
+14253,60,7,461.1,2,Potential loyalists
+14254,23,25,4596.6,1,Champions / Loyal
+14255,19,22,4529.93,1,Champions / Loyal
+14256,296,2,138.61,0,Lapsed / At risk
+14257,208,2,119.78,0,Lapsed / At risk
+14258,11,27,6859.61,1,Champions / Loyal
+14259,94,2,248.06,0,Lapsed / At risk
+14260,271,1,23.96,0,Lapsed / At risk
+14261,183,2,236.32,0,Lapsed / At risk
+14262,51,5,365.43,2,Potential loyalists
+14263,324,1,142.69,0,Lapsed / At risk
+14264,317,1,83.62,0,Lapsed / At risk
+14265,166,2,259.65,0,Lapsed / At risk
+14266,3,21,4524.19,1,Champions / Loyal
+14267,329,2,274.94,0,Lapsed / At risk
+14268,31,24,5620.94,1,Champions / Loyal
+14269,191,1,46.98,0,Lapsed / At risk
+14270,20,10,1707.4,1,Champions / Loyal
+14271,4,2,270.31,2,Potential loyalists
+14272,4,24,5444.89,1,Champions / Loyal
+14273,81,2,34.38,0,Lapsed / At risk
+14274,22,5,392.23,2,Potential loyalists
+14275,62,6,568.58,2,Potential loyalists
+14276,138,2,176.63,0,Lapsed / At risk
+14277,39,6,437.78,2,Potential loyalists
+14278,296,1,179.93,0,Lapsed / At risk
+14279,278,2,313.96,0,Lapsed / At risk
+14280,321,2,198.87,0,Lapsed / At risk
+14281,3,23,5979.52,1,Champions / Loyal
+14282,76,2,43.67,0,Lapsed / At risk
+14283,247,2,363.73,0,Lapsed / At risk
+14284,12,13,4310.21,1,Champions / Loyal
+14285,32,7,748.58,2,Potential loyalists
+14286,244,1,60.41,0,Lapsed / At risk
+14287,171,1,205.98,0,Lapsed / At risk
+14288,42,4,123.92,2,Potential loyalists
+14289,213,2,90.07,0,Lapsed / At risk
+14290,68,2,211.14,0,Lapsed / At risk
+14291,334,1,175.3,0,Lapsed / At risk
+14292,34,25,5168.16,1,Champions / Loyal
+14293,34,11,2840.26,1,Champions / Loyal
+14294,340,1,133.52,0,Lapsed / At risk
+14295,88,6,471.36,2,Potential loyalists
+14296,277,1,205.52,0,Lapsed / At risk
+14297,79,2,165.75,0,Lapsed / At risk
+14298,282,1,113.08,0,Lapsed / At risk
+14299,260,1,1.95,0,Lapsed / At risk
+14300,24,5,185.45,2,Potential loyalists
+14301,179,1,42.49,0,Lapsed / At risk
+14302,3,5,499.97,2,Potential loyalists
+14303,5,4,452.95,2,Potential loyalists
+14304,44,4,312.53,2,Potential loyalists
+14305,244,1,44.47,0,Lapsed / At risk
+14306,225,2,46.47,0,Lapsed / At risk
+14307,260,2,43.14,0,Lapsed / At risk
+14308,168,2,187.06,0,Lapsed / At risk
+14309,245,1,34.88,0,Lapsed / At risk
+14310,54,5,273.95,2,Potential loyalists
+14311,346,1,358.37,0,Lapsed / At risk
+14312,41,5,296.7,2,Potential loyalists
+14313,50,5,394.91,2,Potential loyalists
+14314,43,6,465.86,2,Potential loyalists
+14315,60,3,192.76,2,Potential loyalists
+14316,39,6,529.68,2,Potential loyalists
+14317,87,4,235.2,2,Potential loyalists
+14318,20,22,4631.35,1,Champions / Loyal
+14319,40,7,791.69,2,Potential loyalists
+14320,236,2,133.37,0,Lapsed / At risk
+14321,288,2,129.19,0,Lapsed / At risk
+14322,46,3,266.6,2,Potential loyalists
+14323,22,4,359.7,2,Potential loyalists
+14324,42,6,570.29,2,Potential loyalists
+14325,15,7,1034.69,2,Potential loyalists
+14326,340,1,40.34,0,Lapsed / At risk
+14327,80,3,352.45,2,Potential loyalists
+14328,311,1,74.8,0,Lapsed / At risk
+14329,303,2,127.58,0,Lapsed / At risk
+14330,55,5,509.66,2,Potential loyalists
+14331,235,1,175.97,0,Lapsed / At risk
+14332,56,5,390.76,2,Potential loyalists
+14333,276,2,54.57,0,Lapsed / At risk
+14334,246,1,110.75,0,Lapsed / At risk
+14335,235,1,162.58,0,Lapsed / At risk
+14336,197,2,96.01,0,Lapsed / At risk
+14337,199,1,200.9,0,Lapsed / At risk
+14338,309,1,153.53,0,Lapsed / At risk
+14339,19,5,184.58,2,Potential loyalists
+14340,195,1,65.9,0,Lapsed / At risk
+14341,316,2,187.7,0,Lapsed / At risk
+14342,82,7,474.69,2,Potential loyalists
+14343,307,1,85.25,0,Lapsed / At risk
+14344,31,5,424.16,2,Potential loyalists
+14345,10,7,826.19,2,Potential loyalists
+14346,38,23,7100.52,1,Champions / Loyal
+14347,39,6,379.1,2,Potential loyalists
+14348,360,1,22.64,0,Lapsed / At risk
+14349,59,5,361.08,2,Potential loyalists
+14350,37,4,396.0,2,Potential loyalists
+14351,15,5,466.44,2,Potential loyalists
+14352,53,6,586.35,2,Potential loyalists
+14353,189,2,189.64,0,Lapsed / At risk
+14354,232,2,151.7,0,Lapsed / At risk
+14355,15,25,5043.27,1,Champions / Loyal
+14356,56,5,570.73,2,Potential loyalists
+14357,134,2,154.38,0,Lapsed / At risk
+14358,195,1,81.22,0,Lapsed / At risk
+14359,94,2,333.72,0,Lapsed / At risk
+14360,12,6,706.75,2,Potential loyalists
+14361,41,5,330.85,2,Potential loyalists
+14362,38,3,212.82,2,Potential loyalists
+14363,34,7,632.18,2,Potential loyalists
+14364,6,5,250.71,2,Potential loyalists
+14365,213,1,62.62,0,Lapsed / At risk
+14366,200,1,55.59,0,Lapsed / At risk
+14367,41,5,323.82,2,Potential loyalists
+14368,307,1,32.12,0,Lapsed / At risk
+14369,336,2,114.54,0,Lapsed / At risk
+14370,35,5,425.08,2,Potential loyalists
+14371,83,7,713.75,2,Potential loyalists
+14372,17,5,420.24,2,Potential loyalists
+14373,190,2,149.87,0,Lapsed / At risk
+14374,34,5,290.94,2,Potential loyalists
+14375,227,1,7.5,0,Lapsed / At risk
+14376,83,3,318.42,2,Potential loyalists
+14377,13,7,678.29,2,Potential loyalists
+14378,204,2,208.95,0,Lapsed / At risk
+14379,84,5,327.76,2,Potential loyalists
+14380,177,2,100.06,0,Lapsed / At risk
+14381,305,1,42.18,0,Lapsed / At risk
+14382,179,2,161.93,0,Lapsed / At risk
+14383,40,7,612.8,2,Potential loyalists
+14384,204,1,150.3,0,Lapsed / At risk
+14385,21,22,5333.17,1,Champions / Loyal
+14386,27,2,108.78,2,Potential loyalists
+14387,320,1,2.97,0,Lapsed / At risk
+14388,195,2,165.73,0,Lapsed / At risk
+14389,20,2,237.98,2,Potential loyalists
+14390,3,7,732.35,2,Potential loyalists
+14391,220,1,122.95,0,Lapsed / At risk
+14392,293,1,85.98,0,Lapsed / At risk
+14393,45,7,680.0,2,Potential loyalists
+14394,286,2,154.36,0,Lapsed / At risk
+14395,269,2,66.59,0,Lapsed / At risk
+14396,61,4,299.03,2,Potential loyalists
+14397,203,1,162.79,0,Lapsed / At risk
+14398,230,1,156.61,0,Lapsed / At risk
+14399,67,7,724.64,2,Potential loyalists
+14400,46,3,297.13,2,Potential loyalists
+14401,40,27,5125.86,1,Champions / Loyal
+14402,192,2,266.73,0,Lapsed / At risk
+14403,63,4,431.9,2,Potential loyalists
+14404,50,7,502.21,2,Potential loyalists
+14405,203,1,60.86,0,Lapsed / At risk
+14406,7,19,3741.88,1,Champions / Loyal
+14407,17,7,426.45,2,Potential loyalists
+14408,78,4,228.78,2,Potential loyalists
+14409,261,1,56.55,0,Lapsed / At risk
+14410,71,2,196.08,0,Lapsed / At risk
+14411,193,4,405.36,0,Lapsed / At risk
+14412,48,2,81.98,0,Lapsed / At risk
+14413,327,2,183.48,0,Lapsed / At risk
+14414,217,2,162.05,0,Lapsed / At risk
+14415,27,17,3941.49,1,Champions / Loyal
+14416,62,7,517.68,2,Potential loyalists
+14417,201,2,386.97,0,Lapsed / At risk
+14418,23,15,2896.31,1,Champions / Loyal
+14419,23,6,592.55,2,Potential loyalists
+14420,112,3,454.19,2,Potential loyalists
+14421,34,5,699.67,2,Potential loyalists
+14422,85,2,94.66,0,Lapsed / At risk
+14423,63,2,238.61,2,Potential loyalists
+14424,97,6,632.02,2,Potential loyalists
+14425,15,2,197.97,2,Potential loyalists
+14426,238,2,236.1,0,Lapsed / At risk
+14427,56,7,753.18,2,Potential loyalists
+14428,13,28,5995.38,1,Champions / Loyal
+14429,346,1,14.16,0,Lapsed / At risk
+14430,17,4,448.35,2,Potential loyalists
+14431,173,1,113.02,0,Lapsed / At risk
+14432,42,5,529.23,2,Potential loyalists
+14433,212,1,206.16,0,Lapsed / At risk
+14434,29,6,606.21,2,Potential loyalists
+14435,45,5,280.96,2,Potential loyalists
+14436,128,3,210.03,0,Lapsed / At risk
+14437,25,26,5783.47,1,Champions / Loyal
+14438,33,2,155.71,2,Potential loyalists
+14439,201,1,112.08,0,Lapsed / At risk
+14440,241,1,93.7,0,Lapsed / At risk
+14441,19,19,4214.99,1,Champions / Loyal
+14442,274,1,41.09,0,Lapsed / At risk
+14443,325,1,47.57,0,Lapsed / At risk
+14444,261,2,147.4,0,Lapsed / At risk
+14445,263,2,240.97,0,Lapsed / At risk
+14446,265,2,137.12,0,Lapsed / At risk
+14447,54,5,410.87,2,Potential loyalists
+14448,247,2,227.9,0,Lapsed / At risk
+14449,352,1,25.4,0,Lapsed / At risk
+14450,3,23,6049.58,1,Champions / Loyal
+14451,133,2,254.85,0,Lapsed / At risk
+14452,3,10,2716.85,1,Champions / Loyal
+14453,202,2,186.05,0,Lapsed / At risk
+14454,26,5,305.74,2,Potential loyalists
+14455,262,2,146.0,0,Lapsed / At risk
+14456,171,2,252.1,0,Lapsed / At risk
+14457,338,1,179.59,0,Lapsed / At risk
+14458,2,4,444.32,2,Potential loyalists
+14459,223,1,121.77,0,Lapsed / At risk
+14460,179,2,75.9,0,Lapsed / At risk
+14461,10,25,5290.75,1,Champions / Loyal
+14462,303,2,261.31,0,Lapsed / At risk
+14463,40,5,394.21,2,Potential loyalists
+14464,345,1,90.37,0,Lapsed / At risk
+14465,210,2,313.35,0,Lapsed / At risk
+14466,33,4,243.51,2,Potential loyalists
+14467,31,13,3114.31,1,Champions / Loyal
+14468,41,13,2556.53,1,Champions / Loyal
+14469,1,29,7548.85,1,Champions / Loyal
+14470,302,2,217.97,0,Lapsed / At risk
+14471,41,5,310.4,2,Potential loyalists
+14472,37,3,313.74,2,Potential loyalists
+14473,194,1,140.64,0,Lapsed / At risk
+14474,263,1,62.97,0,Lapsed / At risk
+14475,31,2,228.97,2,Potential loyalists
+14476,231,2,106.67,0,Lapsed / At risk
+14477,15,7,774.32,2,Potential loyalists
+14478,357,1,38.46,0,Lapsed / At risk
+14479,21,12,1612.37,1,Champions / Loyal
+14480,295,1,64.59,0,Lapsed / At risk
+14481,307,2,85.16,0,Lapsed / At risk
+14482,252,2,87.29,0,Lapsed / At risk
+14483,46,7,735.8,2,Potential loyalists
+14484,342,1,269.51,0,Lapsed / At risk
+14485,18,6,502.31,2,Potential loyalists
+14486,334,2,437.23,0,Lapsed / At risk
+14487,191,1,67.02,0,Lapsed / At risk
+14488,301,2,270.06,0,Lapsed / At risk
+14489,42,7,737.28,2,Potential loyalists
+14490,7,26,6765.99,1,Champions / Loyal
+14491,38,7,622.78,2,Potential loyalists
+14492,63,11,2522.53,1,Champions / Loyal
+14493,3,3,443.72,2,Potential loyalists
+14494,39,7,535.01,2,Potential loyalists
+14495,201,1,93.82,0,Lapsed / At risk
+14496,63,5,484.94,2,Potential loyalists
+14497,34,6,399.92,2,Potential loyalists
+14498,3,29,7058.81,1,Champions / Loyal
+14499,257,2,120.49,0,Lapsed / At risk
